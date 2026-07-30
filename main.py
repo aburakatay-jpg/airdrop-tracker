@@ -3,6 +3,7 @@ try:
     load_dotenv()
 except ImportError:
     pass
+
 import sys
 import os
 import time
@@ -17,8 +18,8 @@ def main():
 
     candidates = get_new_candidates()
 
-   if not candidates:
-        send_message("📭 Airdrop Radar — Bugün yeni aday bulunamadı.")
+    if not candidates:
+        send_message("Airdrop Radar - Bugun yeni aday bulunamadi.")
         print("Yeni aday yok, islem durduruldu.")
         return
 
@@ -30,9 +31,8 @@ def main():
         steps = analyze_airdrop(c)
         c["steps"] = steps
         analyzed.append(c)
-        time.sleep(2)  # Rate limit için bekle
+        time.sleep(2)
 
-    # Telegram'a özet mesaj
     top5 = analyzed[:5]
     lines = ["Airdrop Radar - " + str(len(analyzed)) + " Yeni Aday Bulundu!", ""]
     lines.append("En Yuksek TVL - Ilk 5:")
