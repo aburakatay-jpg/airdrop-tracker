@@ -17,7 +17,8 @@ def main():
 
     candidates = get_new_candidates()
 
-    if not candidates:
+   if not candidates:
+        send_message("📭 Airdrop Radar — Bugün yeni aday bulunamadı.")
         print("Yeni aday yok, islem durduruldu.")
         return
 
