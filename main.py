@@ -32,7 +32,10 @@ def main():
     # 3. Airdrop Siteleri
     all_raw_opportunities.extend(fetch_airdrop_sites())
 
-    # Daha önce gördüklerimizi filtrele (İsim veya URL bazlı)
+def main():
+    # ... (Veri toplama kısımları aynı kalacak) ...
+    
+    # 1. Filtreleme
     new_opportunities = []
     for opp in all_raw_opportunities:
         unique_id = opp.get("url", opp.get("project_name")) 
@@ -40,11 +43,33 @@ def main():
             new_opportunities.append(opp)
 
     if not new_opportunities:
-        print("Yeni aday yok.")
         send_message("Airdrop Radar - Bugün yeni fırsat bulunamadı.")
         return
 
-    print(f"{len(new_opportunities)} yeni proje/haber bulundu. Yapay Zeka inceliyor...")
+    # 2. YENİ MANTIK: 20'şerli gruplar halinde analiz et
+    batch_size = 20 
+    all_analyzed_results = []
+    
+    print(f"Toplam {len(new_opportunities)} aday var, gruplar halinde analiz ediliyor...")
+    
+    for i in range(0, len(new_opportunities), batch_size):
+        batch = new_opportunities[i:i + batch_size]
+        print(f"Grup {i//batch_size + 1} analiz ediliyor...")
+        
+        # AI Analizi
+        batch_results = analyze_opportunities(batch)
+        if batch_results:
+            all_analyzed_results.extend(batch_results)
+
+    # 3. Sonuçları işle
+    if not all_analyzed_results:
+        print("AI hiçbir projeyi kaliteli bulmadı.")
+        return
+
+    # Telegram'a gönder ve kaydet
+    for result in all_analyzed_results:
+        if result.get("airdrop_score", 0) >= 75:
+            # ... (Senin mevcut send_message kodun) ...
 
     # AI Analizi
     analyzed_results = analyze_opportunities(new_opportunities)
