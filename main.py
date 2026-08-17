@@ -26,7 +26,7 @@ def main():
     all_raw_opportunities = []
 
     # 1. DefiLlama
-    all_raw_opportunities.extend(fetch_defillama_data())
+    all_raw_opportunities.extend(fetch_protocols())
     # 2. Binance/Borsalar
     all_raw_opportunities.extend(fetch_binance_opportunities())
     # 3. Airdrop Siteleri
