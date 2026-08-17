@@ -84,3 +84,51 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def save_for_web(new_approved_airdrops):
+    os.makedirs("docs", exist_ok=True)
+    file_path = "docs/airdrops.json"
+    
+    # Eski verileri oku
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        data = []
+        
+    # Yeni projeleri ekle (tarih damgası ile)
+    for opp in new_approved_airdrops:
+        opp['date_added'] = datetime.now().strftime("%Y-%m-%d")
+        data.append(opp)
+        
+    # Puanlara göre yüksekten düşüğe sırala
+    data = sorted(data, key=lambda x: x.get('airdrop_score', 0), reverse=True)
+    
+    # Dosyaya geri yaz
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+def main():
+    # ... (Veri çekme, filtreleme ve AI analiz kısımları aynı kalacak) ...
+
+    # AI Analizi (Bu kısımdan sonrasını güncelliyoruz)
+    analyzed_results = analyze_opportunities(new_opportunities)
+    
+    approved_airdrops = [] # Web'e gideceklerin listesi
+
+    # Onay alanları Telegrama gönder ve listeye ekle
+    for result in analyzed_results:
+        if result.get("airdrop_score", 0) >= 75:
+            approved_airdrops.append(result)
+            
+            # Telegram Mesajı
+            msg = f"🚀 YENİ FIRSAT YAKALANDI!\n\n"
+            msg += f"🔥 Proje: {result.get('project_name')}\n"
+            msg += f"🎯 Tür: {result.get('opportunity_type')}\n"
+            msg += f"⭐ AI Puanı: {result.get('airdrop_score')}/100\n"
+            msg += f"🛠 Aksiyon: {result.get('action_plan')}\n"
+            send_message(msg)
+
+    # EĞER ONAYLANAN VARSA WEB SİTESİ İÇİN KAYDET
+    if approved_airdrops:
+        save_for_web(approved_airdrops)
