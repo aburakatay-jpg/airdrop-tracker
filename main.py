@@ -10,7 +10,7 @@ import time
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from scripts.fetch_defillama import get_new_candidates
-from scripts.groq_analyze import analyze_airdrop
+from scripts.groq_analyze import analyze_opportunities
 from scripts.notify import send_message
 
 def main():
