@@ -1,7 +1,7 @@
 import json
 import os
 # Tüm toplayıcıları içe aktarıyoruz
-from scripts.fetch_defillama import fetch_defillama_data
+from scripts.fetch_defillama import fetch_protocols
 from scripts.fetch_binance import fetch_binance_opportunities
 from scripts.fetch_socials import fetch_airdrop_sites
 from scripts.groq_analyze import analyze_opportunities
