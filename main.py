@@ -72,8 +72,11 @@ def main():
     for opp in all_raw_opportunities:
         unique_id = opp.get("url", opp.get("project_name")) 
         if unique_id not in seen_data:
-            # Akıllı Ön Filtre: Sadece içeriğinde airdrop/fırsat kelimesi geçenleri al
-            text_to_check = (opp.get("project_name", "") + " " + opp.get("description", "")).lower()
+            # Gelen değerlerin None olma ihtimaline karşı str() içine alarak güvene alıyoruz
+            p_name = str(opp.get("project_name") or "")
+            p_desc = str(opp.get("description") or "")
+            
+            text_to_check = (p_name + " " + p_desc).lower()
             
             # Eğer DefiLlama'dan gelen büyük bir protokolse veya içinde anahtar kelime varsa kabul et
             if opp.get("source") != "DefiLlama" or any(kw in text_to_check for kw in keywords):
