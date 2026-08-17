@@ -65,19 +65,32 @@ def main():
     except Exception as e:
         print(f"Airdrop siteleri hatası: {e}")
 
-    # 2. Daha önce görülenleri filtrele
+   # 2. Daha önce görülenleri ve alakasızları filtrele
     new_opportunities = []
+    keywords = ["airdrop", "launchpool", "testnet", "reward", "quest", "points", "season", "drop"]
+    
     for opp in all_raw_opportunities:
         unique_id = opp.get("url", opp.get("project_name")) 
         if unique_id not in seen_data:
-            new_opportunities.append(opp)
+            # Akıllı Ön Filtre: Sadece içeriğinde airdrop/fırsat kelimesi geçenleri al
+            text_to_check = (opp.get("project_name", "") + " " + opp.get("description", "")).lower()
+            
+            # Eğer DefiLlama'dan gelen büyük bir protokolse veya içinde anahtar kelime varsa kabul et
+            if opp.get("source") != "DefiLlama" or any(kw in text_to_check for kw in keywords):
+                new_opportunities.append(opp)
+
+    # Çok fazla aday varsa (örn: 50'den fazla), sadece en popüler/yeni ilk 40 tanesini al ki sistem uçmasın
+    new_opportunities = new_opportunities[:40] 
 
     if not new_opportunities:
         print("Bugün radarımızda yeni aday bulunamadı.")
         send_message("Airdrop Radar - Bugün yeni fırsat bulunamadı.")
         return
 
-    print(f"Toplam {len(new_opportunities)} yeni aday var, 20'şerli gruplar halinde AI analizine gönderiliyor...")
+    print(f"Filtrelemeden geçen {len(new_opportunities)} aday AI analizine gönderiliyor...")
+    
+    # Tek seferde temizce analiz et
+    analyzed_results = analyze_opportunities(new_opportunities)
 
     # 3. 20'şerli Gruplar Halinde AI Analizi (Token Sınırını Aşmamak İçin)
     batch_size = 20 
