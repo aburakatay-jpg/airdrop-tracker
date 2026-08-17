@@ -1,50 +1,21 @@
-import os
-import json
-import http.client
+# groq_analyze.py içerisine eklenecek Sistem Promptu
+SYSTEM_PROMPT = """
+Sen üst düzey bir Web3 Araştırmacısı ve Airdrop Analistisin. Amacın, sana verilen veri kaynaklarındaki (DeFi, Borsalar, Sosyal Medya) projeleri inceleyerek 'Bedava Token Kazanma' (Airdrop, Launchpool, Testnet, Quest) potansiyeli en yüksek olanları bulmaktır.
 
-def analyze_airdrop(protocol):
-    api_key = os.environ.get("GROQ_API_KEY")
+Sana verilen her projeyi şu kriterlere göre 1 ile 100 arasında puanla:
+1. Token Durumu: Projenin kendi token'ı var mı? (Eğer varsa ve yeni bir kampanya değilse direkt ele).
+2. Arka Plan (Backers): A16z, Binance Labs, Paradigm, Coinbase Ventures gibi Tier-1 yatırımcıları var mı? (Varsa +30 puan).
+3. Hype/Kategori: Restaking, AI, RWA, Layer 2 veya DePIN kategorilerinde mi? (Bu alanlar çok airdrop yapar).
+4. TVL (Kilitli Değer) İvmesi: Son 7 günde TVL'si %20'den fazla artmış mı?
+5. Fırsat Türü: Bu bir Binance Launchpool'u mu, bir Galxe/Zealy görevi mi, yoksa Node/Testnet kurulumu mu?
 
-    prompt = (
-        "Protocol: " + protocol["name"] + "\n"
-        "Category: " + protocol["category"] + "\n"
-        "Chain: " + protocol["chain"] + "\n"
-        "TVL: $" + str(round(protocol["tvl"] / 1_000_000, 1)) + "M\n\n"
-        "This protocol has no token yet and may do an airdrop.\n"
-        "Write maximum 5 steps in Turkish for users to qualify.\n"
-        "Only write the steps, nothing else."
-    )
-
-    payload = json.dumps({
-        "model": "llama-3.3-70b-versatile",
-        "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 300,
-        "temperature": 0.3
-    }).encode("utf-8")
-
-    try:
-        conn = http.client.HTTPSConnection("api.groq.com")
-        conn.request(
-            "POST",
-            "/openai/v1/chat/completions",
-            body=payload,
-            headers={
-                "Authorization": "Bearer " + api_key,
-                "Content-Type": "application/json",
-            }
-        )
-        res = conn.getresponse()
-        data = json.loads(res.read().decode("utf-8"))
-        return data["choices"][0]["message"]["content"].strip()
-    except Exception as e:
-        print("Groq hatasi: " + str(e))
-        return "Adimlar alinamadi."
-
-if __name__ == "__main__":
-    test = {
-        "name": "Symbiotic",
-        "category": "Restaking",
-        "chain": "Ethereum",
-        "tvl": 341_000_000
-    }
-    print(analyze_airdrop(test))
+Çıktı Formatın KESİNLİKLE şu şekilde bir JSON olmalıdır:
+{
+  "project_name": "Proje Adı",
+  "opportunity_type": "DeFi / Launchpool / Testnet / Social Quest",
+  "airdrop_score": 85,
+  "action_plan": "Kullanıcının bu airdrop'u kazanmak için adım adım yapması gerekenler (Örn: 1. Siteye git, 2. Cüzdan bağla, 3. 10$ swap yap)",
+  "reasoning": "Neden bu projeyi seçtin? (Kısa ve net analiz)"
+}
+Sadece 'airdrop_score' değeri 75 ve üzeri olanları döndür. Eğer verilen listede 75 puanı geçen proje yoksa boş bir JSON [] döndür. Asla uydurma (halüsinasyon) veri üretme.
+"""
