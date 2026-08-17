@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          git add data/seen.json
-          git add docs/airdrops.json # BURA EKLENDİ
-          git diff --quiet && git diff --staged --quiet || (git commit -m "AI Güncellemesi: Yeni airdroplar siteye eklendi" && git push)
+          git add data/ || true
+          git add docs/ || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "AI Güncellemesi: Sistem durumu kaydedildi" && git push)
