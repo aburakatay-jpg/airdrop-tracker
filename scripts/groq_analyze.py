@@ -20,7 +20,7 @@ Sana verilen her projeyi şu kriterlere göre 1 ile 100 arasında puanla:
     "reasoning": "Kısa analiz"
   }
 ]
-Sadece 'airdrop_score' değeri 75 ve üzeri olanları döndür. Eğer 75'i geçen yoksa sadece boş bir JSON array [] döndür. Asla başka metin yazma.
+Sadece 'airdrop_score' değeri 50 ve üzeri olanları döndür. Eğer 50'i geçen yoksa sadece boş bir JSON array [] döndür. Asla başka metin yazma.
 """
 
 def analyze_opportunities(projects):
