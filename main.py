@@ -109,7 +109,7 @@ def main():
 
     if not all_analyzed_results:
         print("AI hiçbir projeyi yeterince kaliteli bulmadı.")
-        send_message("Airdrop Radar - Yeni projeler bulundu ancak AI onayından geçemedi (Puan < 75).")
+        send_message("Airdrop Radar - Yeni projeler bulundu ancak AI onayından geçemedi (Puan < 50).")
         
         # Spam olmaması için tarananları seen.json'a ekle
         for opp in new_opportunities:
@@ -119,12 +119,12 @@ def main():
         save_seen_data(seen_data)
         return
 
-    # 4. Puanı 75 ve üzeri olanları seç, Telegram'a at ve web için hazırla
+    # 4. Puanı 50 ve üzeri olanları seç, Telegram'a at ve web için hazırla
     approved_airdrops = []
     
     for result in all_analyzed_results:
         score = result.get("airdrop_score", 0)
-        if score >= 75:
+        if score >= 50:
             approved_airdrops.append(result)
             
             # Telegram Mesajı
