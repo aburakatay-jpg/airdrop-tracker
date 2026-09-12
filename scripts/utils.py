@@ -5,11 +5,15 @@ import re
 
 
 def now_iso():
-    return datetime.now(timezone.utc).isoformat()
+    return datetime.now(
+        timezone.utc
+    ).isoformat()
 
 
 def today_str():
-    return datetime.now().strftime("%Y-%m-%d")
+    return datetime.now().strftime(
+        "%Y-%m-%d"
+    )
 
 
 def clean_text(value):
@@ -29,7 +33,7 @@ def normalize_url(url):
     if not url:
         return ""
 
-    url = url.strip()
+    url = str(url).strip()
 
     if not url.startswith(
         ("http://", "https://")
@@ -42,7 +46,7 @@ def normalize_url(url):
 def domain_of(url):
     try:
         return (
-            urlparse(url)
+            urlparse(str(url))
             .netloc
             .lower()
             .replace("www.", "")
@@ -52,6 +56,15 @@ def domain_of(url):
 
 
 def candidate_id(project):
+    # Eğer proje daha önce pipeline içinde
+    # kimlik aldıysa HER ZAMAN onu koru.
+    existing_id = project.get(
+        "_candidate_id"
+    )
+
+    if existing_id:
+        return str(existing_id)
+
     base = (
         project.get("url")
         or project.get("official_url")
@@ -60,6 +73,12 @@ def candidate_id(project):
         or "unknown"
     )
 
+    normalized_base = (
+        str(base)
+        .strip()
+        .lower()
+    )
+
     return hashlib.sha256(
-        str(base).encode("utf-8")
+        normalized_base.encode("utf-8")
     ).hexdigest()[:24]
