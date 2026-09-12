@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Airdrop Radar V2</title>
+
+  <style>
+    :root {
+      color-scheme: dark;
+
+      --bg: #0d1117;
+      --card: #161b22;
+      --border: #30363d;
+      --text: #c9d1d9;
+      --muted: #8b949e;
+
+      --blue: #58a6ff;
+      --green: #3fb950;
+      --yellow: #d29922;
+      --red: #f85149;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 18px;
+
+      background: var(--bg);
+      color: var(--text);
+
+      font-family:
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h1 {
+      color: var(--blue);
+      text-align: center;
+      margin-bottom: 6px;
+    }
+
+    .intro {
+      text-align: center;
+      color: var(--muted);
+      margin-bottom: 20px;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .tabs button {
+      flex: 1;
+
+      padding: 11px;
+
+      border: 1px solid var(--border);
+      background: var(--card);
+      color: var(--text);
+
+      border-radius: 8px;
+
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .tabs button:hover {
+      border-color: var(--blue);
+    }
+
+    .card {
+      background: var(--card);
+
+      border: 1px solid var(--border);
+
+      padding: 16px;
+
+      border-radius: 12px;
+
+      margin-bottom: 14px;
+    }
+
+    .card.priority {
+      border-color: var(--green);
+    }
+
+    .card.watch {
+      border-color: var(--yellow);
+    }
+
+    .topline {
+      display: flex;
+
+      justify-content: space-between;
+
+      gap: 12px;
+
+      align-items: flex-start;
+    }
+
+    .topline h2 {
+      margin-top: 0;
+      margin-bottom: 5px;
+    }
+
+    .scores {
+      display: grid;
+
+      grid-template-columns:
+        repeat(3, 1fr);
+
+      gap: 8px;
+
+      margin: 14px 0;
+    }
+
+    .scorebox {
+      background: var(--bg);
+
+      border:
+        1px solid var(--border);
+
+      border-radius: 8px;
+
+      padding: 10px;
+
+      text-align: center;
+    }
+
+    .label {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .value {
+      font-size: 20px;
+      font-weight: 800;
+    }
+
+    .meta {
+      margin: 7px 0;
+      line-height: 1.45;
+    }
+
+    details {
+      margin-top: 14px;
+    }
+
+    summary {
+      cursor: pointer;
+
+      color: var(--blue);
+
+      font-weight: 700;
+    }
+
+    ol,
+    ul {
+      padding-left: 22px;
+      line-height: 1.55;
+    }
+
+    li {
+      margin-bottom: 6px;
+    }
+
+    a {
+      color: var(--blue);
+      word-break: break-word;
+    }
+
+    .danger {
+      color: var(--red);
+      font-weight: 700;
+    }
+
+    .safe {
+      color: var(--green);
+      font-weight: 700;
+    }
+
+    .empty {
+      text-align: center;
+
+      color: var(--muted);
+
+      padding: 40px 0;
+    }
+
+    .badge {
+      display: inline-block;
+
+      padding: 4px 8px;
+
+      border-radius: 999px;
+
+      font-size: 12px;
+
+      font-weight: 700;
+
+      border:
+        1px solid var(--border);
+    }
+
+    .badge.priority {
+      color: var(--green);
+      border-color: var(--green);
+    }
+
+    .badge.watch {
+      color: var(--yellow);
+      border-color: var(--yellow);
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 12px;
+      }
+
+      .scores {
+        grid-template-columns: 1fr;
+      }
+
+      .topline {
+        flex-direction: column;
+      }
+
+      .tabs {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <h1>🚀 Airdrop Radar V2</h1>
+
+  <div class="intro">
+    Sermaye gerektirmeyen fırsatlara öncelik verir.
+  </div>
+
+  <div class="tabs">
+
+    <button onclick="setFilter('ALL')">
+      Tümü
+    </button>
+
+    <button onclick="setFilter('PRIORITY')">
+      Priority
+    </button>
+
+    <button onclick="setFilter('WATCH')">
+      Watch
+    </button>
+
+  </div>
+
+  <div id="list">
+    Yükleniyor...
+  </div>
+
+</div>
+
+<script>
+
+let items = [];
+
+let filter = "ALL";
+
+
+function esc(value) {
+
+  return String(
+    value ?? ""
+  )
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+
+function setFilter(value) {
+
+  filter = value;
+
+  render();
+}
+
+
+function getStatusClass(status) {
+
+  if (status === "PRIORITY") {
+    return "priority";
+  }
+
+  if (status === "WATCH") {
+    return "watch";
+  }
+
+  return "";
+}
+
+
+function render() {
+
+  const list =
+    document.getElementById("list");
+
+  const visible =
+    filter === "ALL"
+      ? items
+      : items.filter(
+          item =>
+            item.status === filter
+        );
+
+  if (!visible.length) {
+
+    list.innerHTML = `
+      <div class="empty">
+        Bu kategoride fırsat yok.
+      </div>
+    `;
+
+    return;
+  }
+
+
+  list.innerHTML =
+    visible
+      .map(item => {
+
+        const statusClass =
+          getStatusClass(
+            item.status
+          );
+
+
+        const steps =
+          (
+            item.action_plan_steps
+            || []
+          )
+          .map(
+            step =>
+              `<li>${esc(step)}</li>`
+          )
+          .join("");
+
+
+        const risks =
+          (
+            item.risks
+            || []
+          )
+          .map(
+            risk =>
+              `<li>${esc(risk)}</li>`
+          )
+          .join("");
+
+
+        const checklist =
+          (
+            item.verification_checklist
+            || []
+          )
+          .map(
+            check =>
+              `<li>${esc(check)}</li>`
+          )
+          .join("");
+
+
+        let costText;
+
+        if (
+          item.estimated_cost_usd === null
+          ||
+          item.estimated_cost_usd === undefined
+        ) {
+
+          costText =
+            "Bilinmiyor";
+
+        } else {
+
+          costText =
+            "$" +
+            esc(
+              item.estimated_cost_usd
+            );
+        }
+
+
+        let urlHtml;
+
+        if (item.official_url) {
+
+          urlHtml = `
+            <a
+              href="${esc(item.official_url)}"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Resmi / önerilen bağlantıyı aç
+            </a>
+          `;
+
+        } else {
+
+          urlHtml = `
+            <span class="danger">
+              Resmi URL doğrulanamadı
+            </span>
+          `;
+        }
+
+
+        const zeroCostText =
+          item.zero_cost_confirmed
+            ? `
+              <span class="safe">
+                Evet
+              </span>
+            `
+            : `
+              <span class="danger">
+                Hayır / doğrulanamadı
+              </span>
+            `;
+
+
+        return `
+
+          <div class="card ${statusClass}">
+
+            <div class="topline">
+
+              <div>
+
+                <h2>
+                  ${esc(item.project_name)}
+                </h2>
+
+                <div class="label">
+
+                  ${esc(item.opportunity_type)}
+
+                  ·
+
+                  ${esc(item.date_added || "")}
+
+                </div>
+
+              </div>
+
+
+              <span class="badge ${statusClass}">
+
+                ${esc(item.status)}
+
+              </span>
+
+            </div>
+
+
+            <div class="scores">
+
+              <div class="scorebox">
+
+                <div class="label">
+                  Airdrop
+                </div>
+
+                <div class="value">
+                  ${esc(item.airdrop_score)}/100
+                </div>
+
+              </div>
+
+
+              <div class="scorebox">
+
+                <div class="label">
+                  Ücretsiz
+                </div>
+
+                <div class="value">
+                  ${esc(item.free_score)}/100
+                </div>
+
+              </div>
+
+
+              <div class="scorebox">
+
+                <div class="label">
+                  Güven
+                </div>
+
+                <div class="value">
+                  ${esc(item.confidence_score)}/100
+                </div>
+
+              </div>
+
+            </div>
+
+
+            <p class="meta">
+
+              <strong>
+                Tahmini maliyet:
+              </strong>
+
+              ${costText}
+
+            </p>
+
+
+            <p class="meta">
+
+              <strong>
+                Sıfır maliyet doğrulandı mı?
+              </strong>
+
+              ${zeroCostText}
+
+            </p>
+
+
+            <p class="meta">
+
+              <strong>
+                Token:
+              </strong>
+
+              ${esc(
+                item.token_status
+                || "unknown"
+              )}
+
+            </p>
+
+
+            <p class="meta">
+
+              <strong>
+                Risk:
+              </strong>
+
+              ${esc(
+                item.risk_level
+                || "MEDIUM"
+              )}
+
+            </p>
+
+
+            <p class="meta">
+
+              <strong>
+                Neden?
+              </strong>
+
+              ${esc(
+                item.reasoning
+                || ""
+              )}
+
+            </p>
+
+
+            <p class="meta">
+
+              <strong>
+                Neden şimdi?
+              </strong>
+
+              ${esc(
+                item.why_now
+                || ""
+              )}
+
+            </p>
+
+
+            <p class="meta">
+
+              ${urlHtml}
+
+            </p>
+
+
+            <details open>
+
+              <summary>
+                🧭 Nasıl katılırım?
+              </summary>
+
+              <ol>
+                ${steps}
+              </ol>
+
+            </details>
+
+
+            <details>
+
+              <summary>
+                ⚠️ Riskler
+              </summary>
+
+              <ul>
+                ${risks}
+              </ul>
+
+            </details>
+
+
+            <details>
+
+              <summary>
+                🛡️ Güvenlik kontrolü
+              </summary>
+
+              <ul>
+                ${checklist}
+              </ul>
+
+            </details>
+
+          </div>
+
+        `;
+      })
+      .join("");
+}
+
+
+fetch(
+  "airdrops.json?ts="
+  + Date.now()
+)
+  .then(response => {
+
+    if (!response.ok) {
+      throw new Error(
+        "airdrops.json okunamadı."
+      );
+    }
+
+    return response.json();
+  })
+
+  .then(data => {
+
+    items =
+      Array.isArray(data)
+        ? data
+        : [];
+
+    render();
+  })
+
+  .catch(error => {
+
+    console.error(error);
+
+    document
+      .getElementById("list")
+      .innerHTML = `
+        <div class="empty">
+          Henüz veri üretilemedi.
+        </div>
+      `;
+  });
+
+</script>
+
+</body>
+</html>
