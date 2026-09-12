@@ -1,91 +1,177 @@
 import requests
-import json
-import os
-from datetime import datetime
 
-# Bu kategoriler ve isimler airdrop vermez, filtrele
-EXCLUDED_CATEGORIES = ["CEX", "Bridge", "RWA", "Indexes"]
-EXCLUDED_KEYWORDS = ["binance", "bybit", "coinbase", "bitfinex", "kraken", 
-                     "robinhood", "okx", "kucoin", "htx", "bitget", "gemini",
-                     "bridge", "wrapped", "staked", "liquid staking"]
+from scripts.utils import clean_text
 
-def fetch_protocols():
-    url = "https://api.llama.fi/protocols"
-    response = requests.get(url, timeout=10)
-    response.raise_for_status()
-    return response.json()
+
+EXCLUDED_CATEGORIES = {
+    "cex",
+    "bridge",
+    "indexes"
+}
+
+
+EXCLUDED_KEYWORDS = {
+    "binance",
+    "bybit",
+    "coinbase",
+    "bitfinex",
+    "kraken",
+    "robinhood",
+    "okx",
+    "kucoin",
+    "htx",
+    "bitget",
+    "gemini",
+    "wrapped"
+}
+
 
 def is_excluded(protocol):
-    name = (protocol.get("name") or "").lower()
-    category = (protocol.get("category") or "").lower()
-    
-    if category in [c.lower() for c in EXCLUDED_CATEGORIES]:
+    name = clean_text(
+        protocol.get("name")
+    ).lower()
+
+    category = clean_text(
+        protocol.get("category")
+    ).lower()
+
+    if category in EXCLUDED_CATEGORIES:
         return True
-    
+
     for keyword in EXCLUDED_KEYWORDS:
         if keyword in name:
             return True
-    
+
     return False
 
-def filter_candidates(protocols):
+
+def fetch_defillama_candidates(
+    limit=30
+):
+    print(
+        "DeFiLlama protokolleri taranıyor..."
+    )
+
+    url = (
+        "https://api.llama.fi/protocols"
+    )
+
+    response = requests.get(
+        url,
+        timeout=20
+    )
+
+    response.raise_for_status()
+
+    protocols = response.json()
+
     candidates = []
-    
-    for p in protocols:
-        tvl = p.get("tvl") or 0
-        has_token = p.get("symbol") not in [None, "", "-"]
-        
-        if tvl >= 500_000_000 and not has_token and not is_excluded(p):
-            candidates.append({
-                "name": p.get("name"),
-                "symbol": p.get("symbol"),
-                "tvl": round(tvl),
-                "chain": p.get("chain"),
-                "category": p.get("category"),
-                "url": p.get("url"),
-                "first_seen": datetime.now().isoformat()
-            })
-    
-    # TVL'e göre sırala
-    candidates.sort(key=lambda x: x["tvl"], reverse=True)
+
+    for protocol in protocols:
+
+        if is_excluded(protocol):
+            continue
+
+        tvl = float(
+            protocol.get("tvl")
+            or 0
+        )
+
+        # Eski sistemde 500M USD idi.
+        # Discovery için fazla yüksekti.
+        if tvl < 5_000_000:
+            continue
+
+        name = clean_text(
+            protocol.get("name")
+        )
+
+        symbol = clean_text(
+            protocol.get("symbol")
+        )
+
+        category = clean_text(
+            protocol.get("category")
+        )
+
+        chain = clean_text(
+            protocol.get("chain")
+        )
+
+        project_url = (
+            protocol.get("url")
+            or ""
+        )
+
+        description = (
+            f"DeFi protokolü. "
+            f"Kategori: "
+            f"{category or 'bilinmiyor'}. "
+            f"TVL: ${tvl:,.0f}. "
+            f"Chain: "
+            f"{chain or 'bilinmiyor'}. "
+            f"DeFiLlama symbol alanı: "
+            f"{symbol or 'bilinmiyor'}."
+        )
+
+        candidate = {
+            "project_name": name,
+
+            "url": project_url,
+
+            "description": (
+                description
+            ),
+
+            "source": "DeFiLlama",
+
+            "source_type": (
+                "protocol_discovery"
+            ),
+
+            "tvl_usd": round(tvl),
+
+            "chain": (
+                chain
+                or None
+            ),
+
+            "category": (
+                category
+                or None
+            ),
+
+            # ÖNEMLİ:
+            # Bu alan tokenın gerçekten
+            # piyasada olduğu anlamına gelmez.
+            "defillama_symbol": (
+                symbol
+                or None
+            )
+        }
+
+        candidates.append(
+            candidate
+        )
+
+    candidates.sort(
+        key=lambda item: (
+            item.get(
+                "tvl_usd",
+                0
+            )
+        ),
+        reverse=True
+    )
+
+    candidates = (
+        candidates[:limit]
+    )
+
+    print(
+        f"DeFiLlama: "
+        f"{len(candidates)} "
+        f"aday bulundu."
+    )
+
     return candidates
-
-def load_seen():
-    path = "data/seen.json"
-    if os.path.exists(path):
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
-
-def save_seen(seen):
-    with open("data/seen.json", "w", encoding="utf-8") as f:
-        json.dump(seen, f, indent=2, ensure_ascii=False)
-
-def get_new_candidates():
-    print("DefiLlama'dan protokoller çekiliyor...")
-    protocols = fetch_protocols()
-    candidates = filter_candidates(protocols)
-    
-    seen = load_seen()
-    seen_names = {p["name"] for p in seen}
-    
-    new_ones = [c for c in candidates if c["name"] not in seen_names]
-    
-    if new_ones:
-        seen.extend(new_ones)
-        save_seen(seen)
-        print(f"{len(new_ones)} yeni aday bulundu.")
-    else:
-        print("Yeni aday yok.")
-    
-    return new_ones
-
-if __name__ == "__main__":
-    # Test için seen.json'ı sıfırla
-    if os.path.exists("data/seen.json"):
-        os.remove("data/seen.json")
-    
-    results = get_new_candidates()
-    print(f"\nToplam {len(results)} temiz aday:")
-    for r in results:
-        print(f"- {r['name']} | TVL: ${r['tvl']:,} | Kategori: {r['category']} | Zincir: {r['chain']}")
