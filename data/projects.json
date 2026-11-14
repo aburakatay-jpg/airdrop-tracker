@@ -2,10 +2,10 @@
   "bbec2434c095e76e1121eab5": {
     "project_name": "Lido",
     "url": "https://lido.fi/",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $18,920,505,536. Chain: Multi-Chain. DeFiLlama symbol alanı: LDO.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $18,556,559,897. Chain: Multi-Chain. DeFiLlama symbol alanı: LDO.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 18920505536,
+    "tvl_usd": 18556559897,
     "chain": "Multi-Chain",
     "category": "Liquid Staking",
     "defillama_symbol": "LDO",
@@ -14,7 +14,7 @@
       "page_ok": true,
       "resolved_url": "https://lido.fi/",
       "page_title": "Lido Liquid Staking",
-      "page_text": "Products Products stETH Secure and liquid ETH staking EarnETH Transparent, blue-chip DeFi rewards EarnUSD Transparent, onchain USD rewards stETH in the ecosystem Ledger Live Metamask OKX Safe Cow Swap Explore ecosystem How Lido Works Learn how Lido provides liquid ETH staking. Lido Multichain Get and use stETH across multiple chains and enjoy lower fees. EarnETH Transparent, blue-chip DeFi rewards EarnUSD Transparent, onchain USD rewards Institutional Staking Institutional staking stETH liquidity and utility for enterprises Integrations Fireblocks Copper.co BitGo Anchorage Taurus Explore all Custom solution Lido V3 enables tailored staking setups with validators of choice through stVaults platform. Contact us Node Operators Join the Node Operator set permissionlessly Community Staking Module Flexible validator setup stVaults Tailored setups for personalized staking Explore curated participation Curated Module Join as an independent Node Operator Simple DVT Run validators with others via SSV or Obol Curated Module v2 Enhanced flexibility for professional staking providers Resources Node Operator portal General protocol stats & metrics Lido operators VaNOM (Validator & Node Operator Metrics) Explore curated participation Lido DAO Join Lidoâs governance Research forum Proposals & discussions Off-chain votes Snapshot signaling votes On-chain votes Executable onchain decisions Dual Governance stETH dynamic timelock Framework Governance stack Delegation LEGO grants Decentralization scorecard Tracking Lidoâs progress toward decentralization. Read now Off-chain votes Snapshot signaling votes Builders Build on Lido SDK Docs Smart contracts stVaults Resources GitHub Audits Bug bounty Discord Token integration guide Learn how to integrate Lido's stETH or wstETH tokens into dApps or services. Start here Community Lido Contribute Join the Lido development effort Lido analytics hub Lido's Dune dashboards FAQ Frequently asked questions Resources Blog X Telegram Discord Help center Research forum Lido Poolside Community Call Check the latest Lido Poolside Community Calls for the latest insights. Explore previous calls FAQ Frequently asked questions Access on-chain increased reward opportunities. EarnUSD delivers access to USD-denominated reward strategies built around transparent asset selection, risk controls and reporting $2,467,850,421 rewards paid since 2020 Competitive rewards, deep liquidity Over $4M invested in security, including audits, bug bounties, and expert reviews Smoothing of CL and EL rewards across the largest Ethereum validator set User-friendly experience with low operational gas fees Exclusive use of ETH (stETH) for bonds and rewards Potential for increased rewards per ETH of staked capital compared to vanilla solo staking Key decisions require public votes by LDO token holders, ensuring accountability to both users and the wider Ethereum community Rewards may fluctuate and are influenced by factors outside the platformâs control, including changes to blockchain protocols and validator performance. Past performance does not guarantee future results. Rewards are not assured and depend on the specific rules and mechanisms established by each underlying blockchain network. Users should conduct their own research, seek professional advice, and ensure they understand the risks before participating.",
+      "page_text": "Products Products stETH Secure and liquid ETH staking EarnETH Transparent, blue-chip DeFi rewards EarnUSD Transparent, onchain USD rewards stETH in the ecosystem Ledger Live Metamask OKX Safe Cow Swap Explore ecosystem How Lido Works Learn how Lido provides liquid ETH staking. Lido Multichain Get and use stETH across multiple chains and enjoy lower fees. EarnETH Transparent, blue-chip DeFi rewards EarnUSD Transparent, onchain USD rewards Institutional Staking Institutional staking stETH liquidity and utility for enterprises Integrations Fireblocks Copper.co BitGo Anchorage Taurus Explore all Custom solution Lido V3 enables tailored staking setups with validators of choice through stVaults platform. Contact us Node Operators Join the Node Operator set permissionlessly Community Staking Module Flexible validator setup stVaults Tailored setups for personalized staking Explore curated participation Curated Module Join as an independent Node Operator Simple DVT Run validators with others via SSV or Obol Curated Module v2 Enhanced flexibility for professional staking providers Resources Node Operator portal General protocol stats & metrics Lido operators VaNOM (Validator & Node Operator Metrics) Explore curated participation Lido DAO Join Lidoâs governance Research forum Proposals & discussions Off-chain votes Snapshot signaling votes On-chain votes Executable onchain decisions Dual Governance stETH dynamic timelock Framework Governance stack Delegation LEGO grants Decentralization scorecard Tracking Lidoâs progress toward decentralization. Read now Off-chain votes Snapshot signaling votes Builders Build on Lido SDK Docs Smart contracts stVaults Resources GitHub Audits Bug bounty Discord Token integration guide Learn how to integrate Lido's stETH or wstETH tokens into dApps or services. Start here Community Lido Contribute Join the Lido development effort Lido analytics hub Lido's Dune dashboards FAQ Frequently asked questions Resources Blog X Telegram Discord Help center Research forum Lido Poolside Community Call Check the latest Lido Poolside Community Calls for the latest insights. Explore previous calls FAQ Frequently asked questions Access on-chain increased reward opportunities. EarnUSD delivers access to USD-denominated reward strategies built around transparent asset selection, risk controls and reporting $2,408,011,733 rewards paid since 2020 Competitive rewards, deep liquidity Over $4M invested in security, including audits, bug bounties, and expert reviews Smoothing of CL and EL rewards across the largest Ethereum validator set User-friendly experience with low operational gas fees Exclusive use of ETH (stETH) for bonds and rewards Potential for increased rewards per ETH of staked capital compared to vanilla solo staking Key decisions require public votes by LDO token holders, ensuring accountability to both users and the wider Ethereum community Rewards may fluctuate and are influenced by factors outside the platformâs control, including changes to blockchain protocols and validator performance. Past performance does not guarantee future results. Rewards are not assured and depend on the specific rules and mechanisms established by each underlying blockchain network. Users should conduct their own research, seek professional advice, and ensure they understand the risks before participating.",
       "links": [
         {
           "text": "",
@@ -423,10 +423,10 @@
   "89ebe8434e6da3a1a150e42e": {
     "project_name": "Aave V3",
     "url": "https://aave.com",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $14,490,751,058. Chain: Multi-Chain. DeFiLlama symbol alanı: AAVE.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $14,230,266,388. Chain: Multi-Chain. DeFiLlama symbol alanı: AAVE.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 14490751058,
+    "tvl_usd": 14230266388,
     "chain": "Multi-Chain",
     "category": "Lending",
     "defillama_symbol": "AAVE",
@@ -714,10 +714,10 @@
   "f718172cd058d75b84e08c5e": {
     "project_name": "SSV Network",
     "url": "https://ssv.network/",
-    "description": "DeFi protokolü. Kategori: Staking Pool. TVL: $10,285,905,684. Chain: Ethereum. DeFiLlama symbol alanı: SSV.",
+    "description": "DeFi protokolü. Kategori: Staking Pool. TVL: $9,975,847,834. Chain: Ethereum. DeFiLlama symbol alanı: SSV.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 10285905684,
+    "tvl_usd": 9975847834,
     "chain": "Ethereum",
     "category": "Staking Pool",
     "defillama_symbol": "SSV",
@@ -1135,10 +1135,10 @@
   "d64b7e702db1a1a796f002d1": {
     "project_name": "Morpho Blue",
     "url": "https://app.morpho.org",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $10,435,219,848. Chain: Multi-Chain. DeFiLlama symbol alanı: MORPHO.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $10,307,265,807. Chain: Multi-Chain. DeFiLlama symbol alanı: MORPHO.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 10435219848,
+    "tvl_usd": 10307265807,
     "chain": "Multi-Chain",
     "category": "Lending",
     "defillama_symbol": "MORPHO",
@@ -1147,7 +1147,7 @@
       "page_ok": true,
       "resolved_url": "https://app.morpho.org/vaults",
       "page_title": "Morpho Vaults",
-      "page_text": "Morpho Vaults Vaults Variable Rate Markets Fixed Rate Markets Portfolio Connect Connect Vaults Variable Rate Markets Portfolio Vaults Earn by depositing into curated Morpho vaults. Total Deposits $15,992,809,652 All vaults Network Asset Curator Advanced Sort by Deposits Network Vault Deposits Liquidity Exposure Curator APY Steakhouse USDG 531.15M USDG $531.08M 72.63M USDG $72.62M +6 Steakhouse Financial 3.93% Grove x Steakhouse USDC 523.66M USDC $523.61M 289.25M USDC $289.22M Steakhouse Financial 4.49% Sentora x Spark RLUSD 500.00M RLUSD $500.00M 468.62M RLUSD $468.62M 0.15% Steakhouse High Yield USDC Edition 459.03M USDC $458.98M 70.98M USDC $70.97M +6 Steakhouse Financial 3.23% Sentora RLUSD Main 405.88M RLUSD $405.88M 101.42M RLUSD $101.42M +2 Sentora 5.38% Paypal USD Main 356.47M PYUSD $356.38M 78.06M PYUSD $78.04M +3 Sentora 5.46% Gauntlet USDC Prime 233.79M USDC $233.77M 233.77M USDC $233.75M Gauntlet 4.50% Sentora PRIME Main 190.72M PYUSD $190.67M 21.58M PYUSD $21.58M Sentora 6.80% Steakhouse Prime EURCV 143.90M EURCV $158.65M 105.37M EURCV $116.17M +1 Steakhouse Financial 3.00% Steakhouse Prime USDC 136.63M USDC $136.62M 76.32M USDC $76.31M Steakhouse Financial 4.49% Steakhouse Prime USDC 135.89M USDC $135.88M 135.89M USDC $135.88M Steakhouse Financial 4.50% Gauntlet USDC Prime 104.87M USDC $104.86M 68.67M USDC $68.66M Gauntlet 4.47% Galaxy USDC 92.66M USDC $92.65M 20.98M USDC $20.98M Galaxy Curation 3.33% Sentora Huma PST Main 84.25M PYUSD $84.23M 8.02M PYUSD $8.02M Sentora 9.08% Steakhouse USDG Pro 80.90M USDG $80.89M 13.87M USDG $13.87M Steakhouse Financial 7.11% Steakhouse Prime USDT 75.95M USDT $75.89M 14.22M USDT $14.21M Steakhouse Financial 7.19% Keyrock Prime USDC 75.24M USDC $75.23M 23.84M USDC $23.84M Keyrock 2.13% Gauntlet USDG Premium 56.94M USDG $56.93M 14.10M USDG $14.09M Gauntlet 7.12% sky.money USDT Savings 54.07M USDT $54.02M 3.46M USDT $3.46M Sky Money 6.92% Grove x Steakhouse USDC 51.75M USDC $51.75M 46.17M USDC $46.17M Steakhouse Financial 4.47% Sentora OUSD Main 46.13M OUSD $46.09M 46.13M OUSD $46.09M Sentora 3.59% Wintermute USDC Select 45.60M USDC $45.59M 35.50M USDC $35.49M +4 Armitage by Wintermute 5.77% Steakhouse High Yield USDC 43.86M USDC $43.86M 21.80M USDC $21.79M +8 Steakhouse Financial 5.70% RockawayX USDC Yield 37.85M USDC $37.85M 20.54M USDC $20.54M +10 RockawayX 7.87% Hyperithm USDC Apex 33.90M USDC $33.90M 6.00M USDC $6.00M +4 Hyperithm 9.24% Clearstar cbAssets Vault 33.88M USDC $33.88M 15.77M USDC $15.77M +5 Clearstar 6.06% KPK USDC Prime 31.33M USDC $31.32M 26.94M USDC $26.94M +3 KPK 4.62% Flowdesk Confidential High Yield USDT 26.90M USDT $26.87M 1.67M USDT $1.67M +5 Flowdesk 11.23% sky.money USDS Flagship 26.19M USDS $26.18M 20.22M USDS $20.21M Sky Money 5.28% Ethena x Steakhouse USDC 25.93M USDC $25.92M 25.93M USDC $25.92M Steakhouse Financial 3.89% Steakhouse High Yield USDC 25.37M USDC $25.37M 18.44M USDC $18.43M +19 Steakhouse Financial 5.09% Steakhouse Prime ETH 11.99k WETH $23.35M 5256.90 WETH $10.23M Steakhouse Financial 1.61% Gauntlet USDC Frontier 22.90M USDC $22.90M 19.70M USDC $19.69M +9 Gauntlet 5.81% Steakhouse Confidential Prime USDC 22.75M USDC $22.75M 21.30M USDC $21.30M Steakhouse Financial 6.02% (Deprecated) Sentora pathUSD 22.57M pathUSD $22.58M 22.57M pathUSD $22.58M Sentora < 0.01% Before you continue The Morpho App is a non-custodial interface operated by the Morpho Association to give you access to the Morpho protocols. Morpho Association does not hold your assets, does not provide financial advice, and is not a regulated financial institution. Using the protocols involves risks, including smart contract failures, oracle failures, and other risks . You may lose all the assets you supply or deposit. Before your first interaction, your wallet may ask you to approve smart contracts. Check each approval before you sign, because onchain transactions are irreversible. I agree to the Terms of Use & Privacy Policy , and confirm that I am not subject to sanctions, not located in a Restricted Territory, and responsible for making sure my use of the Morpho App is lawful where I am. Continue Documentation API MCP",
+      "page_text": "Morpho Vaults Vaults Variable Rate Markets Fixed Rate Markets Portfolio Connect Connect Vaults Variable Rate Markets Portfolio Vaults Earn by depositing into curated Morpho vaults. Total Deposits $15,838,258,898 All vaults Network Asset Curator Advanced Sort by Deposits Network Vault Deposits Liquidity Exposure Curator APY Steakhouse USDG 535.40M USDG $535.33M 74.65M USDG $74.64M +6 Steakhouse Financial 3.90% Grove x Steakhouse USDC 520.95M USDC $520.89M 279.67M USDC $279.64M Steakhouse Financial 4.51% Sentora x Spark RLUSD 500.00M RLUSD $500.00M 468.48M RLUSD $468.48M 0.15% Steakhouse High Yield USDC Edition 452.88M USDC $452.84M 49.21M USDC $49.20M +6 Steakhouse Financial 4.13% Sentora RLUSD Main 386.99M RLUSD $386.99M 95.09M RLUSD $95.09M +2 Sentora 5.55% Paypal USD Main 356.46M PYUSD $356.28M 78.00M PYUSD $77.96M +3 Sentora 5.46% Gauntlet USDC Prime 235.97M USDC $235.94M 235.95M USDC $235.92M Gauntlet 4.50% Sentora PRIME Main 188.88M PYUSD $188.79M 19.73M PYUSD $19.72M Sentora 8.08% Steakhouse Prime EURCV 143.31M EURCV $157.70M 104.76M EURCV $115.28M +1 Steakhouse Financial 3.00% Steakhouse Prime USDC 132.90M USDC $132.88M 132.79M USDC $132.78M Steakhouse Financial 4.50% Steakhouse Prime USDC 132.53M USDC $132.52M 75.17M USDC $75.17M Steakhouse Financial 4.47% Gauntlet USDC Prime 103.72M USDC $103.71M 67.57M USDC $67.57M Gauntlet 4.47% Galaxy USDC 92.67M USDC $92.66M 21.09M USDC $21.09M Galaxy Curation 3.34% Sentora Huma PST Main 84.21M PYUSD $84.17M 8.80M PYUSD $8.80M Sentora 7.38% Steakhouse USDG Pro 80.98M USDG $80.97M 13.33M USDG $13.33M Steakhouse Financial 7.31% Steakhouse Prime USDT 75.98M USDT $75.91M 41.78M USDT $41.74M Steakhouse Financial 3.00% Keyrock Prime USDC 75.24M USDC $75.23M 23.83M USDC $23.83M Keyrock 2.15% Gauntlet USDG Premium 56.94M USDG $56.93M 13.57M USDG $13.57M Gauntlet 7.31% sky.money USDT Savings 54.07M USDT $54.02M 5.51M USDT $5.50M Sky Money 3.68% Grove x Steakhouse USDC 49.81M USDC $49.80M 42.47M USDC $42.47M Steakhouse Financial 4.49% Sentora OUSD Main 46.24M OUSD $46.19M 46.24M OUSD $46.19M Sentora 3.59% Wintermute USDC Select 45.62M USDC $45.61M 35.22M USDC $35.21M +4 Armitage by Wintermute 6.90% Steakhouse High Yield USDC 43.82M USDC $43.81M 22.22M USDC $22.21M +8 Steakhouse Financial 6.54% RockawayX USDC Yield 38.02M USDC $38.01M 17.92M USDC $17.92M +10 RockawayX 9.85% Hyperithm USDC Apex 33.90M USDC $33.90M 6.83M USDC $6.83M +4 Hyperithm 8.31% Clearstar cbAssets Vault 33.82M USDC $33.82M 11.78M USDC $11.78M +5 Clearstar 6.64% KPK USDC Prime 31.90M USDC $31.89M 27.59M USDC $27.58M +3 KPK 4.61% Spark Blue Chip USDT Vault 31.43M USDT $31.40M 31.43M USDT $31.40M SparkDAO 2.69% sky.money USDS Flagship 26.18M USDS $26.18M 20.22M USDS $20.22M Sky Money 5.28% Ethena x Steakhouse USDC 25.93M USDC $25.93M 25.93M USDC $25.93M Steakhouse Financial 4.88% Flowdesk Confidential High Yield USDT 24.95M USDT $24.92M 1.94M USDT $1.94M +5 Flowdesk 10.41% Gauntlet USDC Frontier 22.90M USDC $22.90M 19.89M USDC $19.88M +9 Gauntlet 6.67% (Deprecated) Sentora pathUSD 22.57M pathUSD $22.86M 22.57M pathUSD $22.86M Sentora < 0.01% Steakhouse Prime ETH 11.97k WETH $22.78M 3961.44 WETH $7.53M Steakhouse Financial 1.72% Steakhouse Confidential Prime USDC 22.76M USDC $22.75M 21.42M USDC $21.41M Steakhouse Financial 6.02% Before you continue The Morpho App is a non-custodial interface operated by the Morpho Association to give you access to the Morpho protocols. Morpho Association does not hold your assets, does not provide financial advice, and is not a regulated financial institution. Using the protocols involves risks, including smart contract failures, oracle failures, and other risks . You may lose all the assets you supply or deposit. Before your first interaction, your wallet may ask you to approve smart contracts. Check each approval before you sign, because onchain transactions are irreversible. I agree to the Terms of Use & Privacy Policy , and confirm that I am not subject to sanctions, not located in a Restricted Territory, and responsible for making sure my use of the Morpho App is lawful where I am. Continue Documentation API MCP",
       "links": [
         {
           "text": "Vaults",
@@ -1185,12 +1185,12 @@
           "same_domain": true
         },
         {
-          "text": "531.15M USDG $531.08M",
+          "text": "535.40M USDG $535.33M",
           "url": "https://app.morpho.org/robinhood-chain/vault/0xBeEff033F34C046626B8D0A041844C5d1A5409dd/steakhouse-usdg",
           "same_domain": true
         },
         {
-          "text": "72.63M USDG $72.62M",
+          "text": "74.65M USDG $74.64M",
           "url": "https://app.morpho.org/robinhood-chain/vault/0xBeEff033F34C046626B8D0A041844C5d1A5409dd/steakhouse-usdg",
           "same_domain": true
         },
@@ -1205,7 +1205,7 @@
           "same_domain": true
         },
         {
-          "text": "3.93%",
+          "text": "3.90%",
           "url": "https://app.morpho.org/robinhood-chain/vault/0xBeEff033F34C046626B8D0A041844C5d1A5409dd/steakhouse-usdg",
           "same_domain": true
         },
@@ -1220,12 +1220,12 @@
           "same_domain": true
         },
         {
-          "text": "523.66M USDC $523.61M",
+          "text": "520.95M USDC $520.89M",
           "url": "https://app.morpho.org/base/vault/0xbeef0786756810478b88982DE00F3CD7fdB8e7c7/grove-x-steakhouse-usdc",
           "same_domain": true
         },
         {
-          "text": "289.25M USDC $289.22M",
+          "text": "279.67M USDC $279.64M",
           "url": "https://app.morpho.org/base/vault/0xbeef0786756810478b88982DE00F3CD7fdB8e7c7/grove-x-steakhouse-usdc",
           "same_domain": true
         },
@@ -1240,7 +1240,7 @@
           "same_domain": true
         },
         {
-          "text": "4.49%",
+          "text": "4.51%",
           "url": "https://app.morpho.org/base/vault/0xbeef0786756810478b88982DE00F3CD7fdB8e7c7/grove-x-steakhouse-usdc",
           "same_domain": true
         },
@@ -1260,7 +1260,7 @@
           "same_domain": true
         },
         {
-          "text": "468.62M RLUSD $468.62M",
+          "text": "468.48M RLUSD $468.48M",
           "url": "https://app.morpho.org/ethereum/vault/0xFC8C624B6080a0a780583799f2A862DE936F6E22/sentora-x-spark-rlusd",
           "same_domain": true
         },
@@ -1290,12 +1290,12 @@
           "same_domain": true
         },
         {
-          "text": "459.03M USDC $458.98M",
+          "text": "452.88M USDC $452.84M",
           "url": "https://app.morpho.org/base/vault/0xbeeff2490FEffa212faC2f6553682C219E6a8845/steakhouse-high-yield-usdc-edition",
           "same_domain": true
         },
         {
-          "text": "70.98M USDC $70.97M",
+          "text": "49.21M USDC $49.20M",
           "url": "https://app.morpho.org/base/vault/0xbeeff2490FEffa212faC2f6553682C219E6a8845/steakhouse-high-yield-usdc-edition",
           "same_domain": true
         },
@@ -1310,7 +1310,7 @@
           "same_domain": true
         },
         {
-          "text": "3.23%",
+          "text": "4.13%",
           "url": "https://app.morpho.org/base/vault/0xbeeff2490FEffa212faC2f6553682C219E6a8845/steakhouse-high-yield-usdc-edition",
           "same_domain": true
         },
@@ -1325,12 +1325,12 @@
           "same_domain": true
         },
         {
-          "text": "405.88M RLUSD $405.88M",
+          "text": "386.99M RLUSD $386.99M",
           "url": "https://app.morpho.org/ethereum/vault/0x6dC58a0FdfC8D694e571DC59B9A52EEEa780E6bf/sentora-rlusd-main",
           "same_domain": true
         },
         {
-          "text": "101.42M RLUSD $101.42M",
+          "text": "95.09M RLUSD $95.09M",
           "url": "https://app.morpho.org/ethereum/vault/0x6dC58a0FdfC8D694e571DC59B9A52EEEa780E6bf/sentora-rlusd-main",
           "same_domain": true
         },
@@ -1345,7 +1345,7 @@
           "same_domain": true
         },
         {
-          "text": "5.38%",
+          "text": "5.55%",
           "url": "https://app.morpho.org/ethereum/vault/0x6dC58a0FdfC8D694e571DC59B9A52EEEa780E6bf/sentora-rlusd-main",
           "same_domain": true
         },
@@ -1360,12 +1360,12 @@
           "same_domain": true
         },
         {
-          "text": "356.47M PYUSD $356.38M",
+          "text": "356.46M PYUSD $356.28M",
           "url": "https://app.morpho.org/ethereum/vault/0xb576765fB15505433aF24FEe2c0325895C559FB2/paypal-usd-main",
           "same_domain": true
         },
         {
-          "text": "78.06M PYUSD $78.04M",
+          "text": "78.00M PYUSD $77.96M",
           "url": "https://app.morpho.org/ethereum/vault/0xb576765fB15505433aF24FEe2c0325895C559FB2/paypal-usd-main",
           "same_domain": true
         },
@@ -1395,12 +1395,12 @@
           "same_domain": true
         },
         {
-          "text": "233.79M USDC $233.77M",
+          "text": "235.97M USDC $235.94M",
           "url": "https://app.morpho.org/base/vault/0x050cE30b927Da55177A4914EC73480238BAD56f0/gauntlet-usdc-prime",
           "same_domain": true
         },
         {
-          "text": "233.77M USDC $233.75M",
+          "text": "235.95M USDC $235.92M",
           "url": "https://app.morpho.org/base/vault/0x050cE30b927Da55177A4914EC73480238BAD56f0/gauntlet-usdc-prime",
           "same_domain": true
         },
@@ -1430,12 +1430,12 @@
           "same_domain": true
         },
         {
-          "text": "190.72M PYUSD $190.67M",
+          "text": "188.88M PYUSD $188.79M",
           "url": "https://app.morpho.org/ethereum/vault/0xC21b08C16458202593D4D9B26b9984Ee67b38BbD/sentora-prime-main",
           "same_domain": true
         },
         {
-          "text": "21.58M PYUSD $21.58M",
+          "text": "19.73M PYUSD $19.72M",
           "url": "https://app.morpho.org/ethereum/vault/0xC21b08C16458202593D4D9B26b9984Ee67b38BbD/sentora-prime-main",
           "same_domain": true
         },
@@ -1450,7 +1450,7 @@
           "same_domain": true
         },
         {
-          "text": "6.80%",
+          "text": "8.08%",
           "url": "https://app.morpho.org/ethereum/vault/0xC21b08C16458202593D4D9B26b9984Ee67b38BbD/sentora-prime-main",
           "same_domain": true
         },
@@ -1465,12 +1465,12 @@
           "same_domain": true
         },
         {
-          "text": "143.90M EURCV $158.65M",
+          "text": "143.31M EURCV $157.70M",
           "url": "https://app.morpho.org/ethereum/vault/0xbeef0C075Da5D01112AE5cF34d257074fB5DDB2f/steakhouse-prime-eurcv",
           "same_domain": true
         },
         {
-          "text": "105.37M EURCV $116.17M",
+          "text": "104.76M EURCV $115.28M",
           "url": "https://app.morpho.org/ethereum/vault/0xbeef0C075Da5D01112AE5cF34d257074fB5DDB2f/steakhouse-prime-eurcv",
           "same_domain": true
         },
@@ -1491,62 +1491,62 @@
         },
         {
           "text": "",
-          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
+          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
           "text": "Steakhouse Prime USDC",
-          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
+          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
-          "text": "136.63M USDC $136.62M",
-          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
+          "text": "132.90M USDC $132.88M",
+          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
-          "text": "76.32M USDC $76.31M",
-          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
+          "text": "132.79M USDC $132.78M",
+          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
           "text": "",
-          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
+          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
           "text": "Steakhouse Financial",
-          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
+          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
-          "text": "4.49%",
-          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
+          "text": "4.50%",
+          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
           "text": "",
-          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
+          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
           "text": "Steakhouse Prime USDC",
-          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
+          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
-          "text": "135.89M USDC $135.88M",
-          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
+          "text": "132.53M USDC $132.52M",
+          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
-          "text": "135.89M USDC $135.88M",
-          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
+          "text": "75.17M USDC $75.17M",
+          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
           "same_domain": true
         },
         {
           "text": "",
-          "url": "https://app.morpho.org/base/vault/0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9/steakhouse-prime-usdc",
+          "url": "https://app.morpho.org/ethereum/vault/0xbeef088055857739C12CD3765F20b7679Def0f51/steakhouse-prime-usdc",
           "same_domain": true
         }
       ]
@@ -1556,10 +1556,10 @@
   "3a03d1670fa23bb7731527a8": {
     "project_name": "EigenCloud",
     "url": "https://www.eigencloud.xyz",
-    "description": "DeFi protokolü. Kategori: Restaking. TVL: $4,959,372,664. Chain: Ethereum. DeFiLlama symbol alanı: EIGEN.",
+    "description": "DeFi protokolü. Kategori: Restaking. TVL: $4,857,034,542. Chain: Ethereum. DeFiLlama symbol alanı: EIGEN.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 4959372664,
+    "tvl_usd": 4857034542,
     "chain": "Ethereum",
     "category": "Restaking",
     "defillama_symbol": "EIGEN",
@@ -1792,10 +1792,10 @@
   "2bae530ead744b9f1fd07aa0": {
     "project_name": "Sky Lending",
     "url": "https://app.sky.money/",
-    "description": "DeFi protokolü. Kategori: CDP. TVL: $3,804,136,139. Chain: Ethereum. DeFiLlama symbol alanı: SKY.",
+    "description": "DeFi protokolü. Kategori: CDP. TVL: $3,742,001,929. Chain: Ethereum. DeFiLlama symbol alanı: SKY.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 3804136139,
+    "tvl_usd": 3742001929,
     "chain": "Ethereum",
     "category": "CDP",
     "defillama_symbol": "SKY",
@@ -1812,10 +1812,10 @@
   "c73e3291d161004a5162f23c": {
     "project_name": "SparkLend",
     "url": "https://spark.finance/",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $4,419,071,382. Chain: Multi-Chain. DeFiLlama symbol alanı: SPK.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $4,352,993,580. Chain: Multi-Chain. DeFiLlama symbol alanı: SPK.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 4419071382,
+    "tvl_usd": 4352993580,
     "chain": "Multi-Chain",
     "category": "Lending",
     "defillama_symbol": "SPK",
@@ -2233,10 +2233,10 @@
   "2753092602060976bf7b69f3": {
     "project_name": "ether.fi Stake",
     "url": "https://www.ether.fi",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $3,698,066,512. Chain: Multi-Chain. DeFiLlama symbol alanı: ETHFI.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $3,621,710,286. Chain: Multi-Chain. DeFiLlama symbol alanı: ETHFI.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 3698066512,
+    "tvl_usd": 3621710286,
     "chain": "Multi-Chain",
     "category": "Liquid Staking",
     "defillama_symbol": "ETHFI",
@@ -2253,10 +2253,10 @@
   "8cd1a96d90eec8d448bd0ffc": {
     "project_name": "Ethena USDe",
     "url": "https://www.app.ethena.fi/join/3y20d",
-    "description": "DeFi protokolü. Kategori: Basis Trading. TVL: $4,889,744,242. Chain: Ethereum. DeFiLlama symbol alanı: ENA.",
+    "description": "DeFi protokolü. Kategori: Basis Trading. TVL: $4,909,847,740. Chain: Ethereum. DeFiLlama symbol alanı: ENA.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 4889744242,
+    "tvl_usd": 4909847740,
     "chain": "Ethereum",
     "category": "Basis Trading",
     "defillama_symbol": "ENA",
@@ -2374,10 +2374,10 @@
   "fa3e1730ca0d31e7778b017a": {
     "project_name": "JustLend V1",
     "url": "https://justlend.org/",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $3,219,838,697. Chain: Tron. DeFiLlama symbol alanı: JST.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $3,188,850,988. Chain: Tron. DeFiLlama symbol alanı: JST.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 3219838697,
+    "tvl_usd": 3188850988,
     "chain": "Tron",
     "category": "Lending",
     "defillama_symbol": "JST",
@@ -2414,10 +2414,10 @@
   "69473f896eddc413c202a826": {
     "project_name": "Arbitrum Bridge",
     "url": "https://portal.arbitrum.io/bridge",
-    "description": "DeFi protokolü. Kategori: Canonical Bridge. TVL: $3,045,185,065. Chain: Ethereum. DeFiLlama symbol alanı: ARB.",
+    "description": "DeFi protokolü. Kategori: Canonical Bridge. TVL: $2,993,739,998. Chain: Ethereum. DeFiLlama symbol alanı: ARB.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 3045185065,
+    "tvl_usd": 2993739998,
     "chain": "Ethereum",
     "category": "Canonical Bridge",
     "defillama_symbol": "ARB",
@@ -2434,10 +2434,10 @@
   "52ee732da1a8a781d4f75175": {
     "project_name": "Babylon Protocol",
     "url": "https://babylonlabs.io",
-    "description": "DeFi protokolü. Kategori: Restaking. TVL: $2,831,366,068. Chain: Bitcoin. DeFiLlama symbol alanı: BABY.",
+    "description": "DeFi protokolü. Kategori: Restaking. TVL: $2,743,528,210. Chain: Bitcoin. DeFiLlama symbol alanı: BABY.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 2831366068,
+    "tvl_usd": 2743528210,
     "chain": "Bitcoin",
     "category": "Restaking",
     "defillama_symbol": "BABY",
@@ -2875,10 +2875,10 @@
   "e421b739f71cd6a31a223798": {
     "project_name": "Steakhouse Financial",
     "url": "https://www.steakhouse.financial/",
-    "description": "DeFi protokolü. Kategori: Risk Curators. TVL: $2,754,224,704. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Risk Curators. TVL: $2,745,890,037. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 2754224704,
+    "tvl_usd": 2745890037,
     "chain": "Multi-Chain",
     "category": "Risk Curators",
     "defillama_symbol": "-",
@@ -2983,6 +2983,16 @@
           "text": "Launch the app",
           "url": "https://app.steakhouse.financial",
           "same_domain": false
+        },
+        {
+          "text": "/llms.txt",
+          "url": "https://www.steakhouse.financial/llms.txt",
+          "same_domain": true
+        },
+        {
+          "text": "/docs",
+          "url": "https://www.steakhouse.financial/docs/",
+          "same_domain": true
         },
         {
           "text": "Get in touch",
@@ -3153,6 +3163,41 @@
           "text": "Steak Journal",
           "url": "https://www.steakhouse.financial/journal",
           "same_domain": true
+        },
+        {
+          "text": "https://www.steakhouse.financial",
+          "url": "https://www.steakhouse.financial",
+          "same_domain": true
+        },
+        {
+          "text": "Prime and High Yield (Instant and Term), Turbo",
+          "url": "https://www.steakhouse.financial/docs/products/vault-products",
+          "same_domain": true
+        },
+        {
+          "text": "https://dune.com/steakhouse",
+          "url": "https://dune.com/steakhouse",
+          "same_domain": false
+        },
+        {
+          "text": "https://kitchen.steakhouse.financial",
+          "url": "https://kitchen.steakhouse.financial",
+          "same_domain": false
+        },
+        {
+          "text": "LinkedIn",
+          "url": "https://www.linkedin.com/company/steakhouse-financial/",
+          "same_domain": false
+        },
+        {
+          "text": "X",
+          "url": "https://x.com/SteakhouseFi",
+          "same_domain": false
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/Steakhouse-Financial",
+          "same_domain": false
         }
       ]
     },
@@ -3161,10 +3206,10 @@
   "6ae4fc2e470f87aed30b786e": {
     "project_name": "Maple",
     "url": "https://www.maple.finance",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $2,236,188,198. Chain: Multi-Chain. DeFiLlama symbol alanı: SYRUP.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $2,203,623,776. Chain: Multi-Chain. DeFiLlama symbol alanı: SYRUP.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 2236188198,
+    "tvl_usd": 2203623776,
     "chain": "Multi-Chain",
     "category": "Lending",
     "defillama_symbol": "SYRUP",
@@ -3517,10 +3562,10 @@
   "4dff1441761a369352b60158": {
     "project_name": "Polygon Bridge",
     "url": "https://polygon.technology/",
-    "description": "DeFi protokolü. Kategori: Canonical Bridge. TVL: $2,587,951,300. Chain: Ethereum. DeFiLlama symbol alanı: POL.",
+    "description": "DeFi protokolü. Kategori: Canonical Bridge. TVL: $2,550,326,112. Chain: Ethereum. DeFiLlama symbol alanı: POL.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 2587951300,
+    "tvl_usd": 2550326112,
     "chain": "Ethereum",
     "category": "Canonical Bridge",
     "defillama_symbol": "POL",
@@ -3938,10 +3983,10 @@
   "10a5f9ca1d39ae9637f9cc2e": {
     "project_name": "Base Bridge",
     "url": "https://docs.base.org/base-chain/network-information/bridges-mainnet",
-    "description": "DeFi protokolü. Kategori: Canonical Bridge. TVL: $2,756,858,894. Chain: Ethereum. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Canonical Bridge. TVL: $2,721,094,292. Chain: Ethereum. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 2756858894,
+    "tvl_usd": 2721094292,
     "chain": "Ethereum",
     "category": "Canonical Bridge",
     "defillama_symbol": "-",
@@ -5016,10 +5061,10 @@
   "bc656abe0689547db8c133d0": {
     "project_name": "Sentora Curator",
     "url": "https://sentora.com/",
-    "description": "DeFi protokolü. Kategori: Risk Curators. TVL: $2,731,226,312. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Risk Curators. TVL: $2,749,649,134. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 2731226312,
+    "tvl_usd": 2749649134,
     "chain": "Multi-Chain",
     "category": "Risk Curators",
     "defillama_symbol": "-",
@@ -5437,10 +5482,10 @@
   "37fff156c482e9697561f2d0": {
     "project_name": "Grove Finance",
     "url": "https://data.grove.finance/",
-    "description": "DeFi protokolü. Kategori: Onchain Capital Allocator. TVL: $1,107,816,512. Chain: Multi-Chain. DeFiLlama symbol alanı: GROVE.",
+    "description": "DeFi protokolü. Kategori: Onchain Capital Allocator. TVL: $1,105,556,419. Chain: Multi-Chain. DeFiLlama symbol alanı: GROVE.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1107816512,
+    "tvl_usd": 1105556419,
     "chain": "Multi-Chain",
     "category": "Onchain Capital Allocator",
     "defillama_symbol": "GROVE",
@@ -5563,10 +5608,10 @@
   "8d7e961a9a4846e141713bb7": {
     "project_name": "PancakeSwap AMM",
     "url": "https://pancakeswap.finance/",
-    "description": "DeFi protokolü. Kategori: Dexs. TVL: $1,351,032,650. Chain: Multi-Chain. DeFiLlama symbol alanı: CAKE.",
+    "description": "DeFi protokolü. Kategori: Dexs. TVL: $1,323,701,698. Chain: Multi-Chain. DeFiLlama symbol alanı: CAKE.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1351032650,
+    "tvl_usd": 1323701698,
     "chain": "Multi-Chain",
     "category": "Dexs",
     "defillama_symbol": "CAKE",
@@ -6004,10 +6049,10 @@
   "41e3a5ed0824daf472e01394": {
     "project_name": "Veda",
     "url": "https://veda.tech",
-    "description": "DeFi protokolü. Kategori: Onchain Capital Allocator. TVL: $1,573,564,025. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Onchain Capital Allocator. TVL: $1,550,327,374. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1573564025,
+    "tvl_usd": 1550327374,
     "chain": "Multi-Chain",
     "category": "Onchain Capital Allocator",
     "defillama_symbol": "-",
@@ -6315,10 +6360,10 @@
   "50d71da7b01bb81897a5d57a": {
     "project_name": "Gauntlet",
     "url": "https://www.gauntlet.xyz",
-    "description": "DeFi protokolü. Kategori: Risk Curators. TVL: $1,581,949,000. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Risk Curators. TVL: $1,572,693,265. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1581949000,
+    "tvl_usd": 1572693265,
     "chain": "Multi-Chain",
     "category": "Risk Curators",
     "defillama_symbol": "-",
@@ -6721,10 +6766,10 @@
   "5b20346afda2521e88d0512f": {
     "project_name": "Uniswap V3",
     "url": "https://app.uniswap.org/",
-    "description": "DeFi protokolü. Kategori: Dexs. TVL: $1,406,549,638. Chain: Multi-Chain. DeFiLlama symbol alanı: UNI.",
+    "description": "DeFi protokolü. Kategori: Dexs. TVL: $1,377,167,187. Chain: Multi-Chain. DeFiLlama symbol alanı: UNI.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1406549638,
+    "tvl_usd": 1377167187,
     "chain": "Multi-Chain",
     "category": "Dexs",
     "defillama_symbol": "UNI",
@@ -6741,10 +6786,10 @@
   "a18eb15dd2b3f528e1e5d966": {
     "project_name": "Sanctum Validator LSTs",
     "url": "https://www.sanctum.so",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $1,506,665,446. Chain: Solana. DeFiLlama symbol alanı: SANC.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $1,422,995,786. Chain: Solana. DeFiLlama symbol alanı: SANC.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1506665446,
+    "tvl_usd": 1422995786,
     "chain": "Solana",
     "category": "Liquid Staking",
     "defillama_symbol": "SANC",
@@ -7328,10 +7373,10 @@
   "73d73004964d30708c8e65be": {
     "project_name": "Compound V3",
     "url": "https://www.compound.xyz/",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $1,125,030,788. Chain: Multi-Chain. DeFiLlama symbol alanı: COMP.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $1,098,703,567. Chain: Multi-Chain. DeFiLlama symbol alanı: COMP.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1125030788,
+    "tvl_usd": 1098703567,
     "chain": "Multi-Chain",
     "category": "Lending",
     "defillama_symbol": "COMP",
@@ -7709,10 +7754,10 @@
   "fddc23d4cc0c216877b596c8": {
     "project_name": "Kamino Lend",
     "url": "https://kamino.com/",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $1,175,290,631. Chain: Solana. DeFiLlama symbol alanı: KMNO.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $1,151,984,137. Chain: Solana. DeFiLlama symbol alanı: KMNO.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1175290631,
+    "tvl_usd": 1151984137,
     "chain": "Solana",
     "category": "Lending",
     "defillama_symbol": "KMNO",
@@ -7729,10 +7774,10 @@
   "323d290b9116f0d8f4e195d8": {
     "project_name": "Rocket Pool",
     "url": "https://rocketpool.net",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $938,725,975. Chain: Ethereum. DeFiLlama symbol alanı: RPL.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $918,114,018. Chain: Ethereum. DeFiLlama symbol alanı: RPL.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 938725975,
+    "tvl_usd": 918114018,
     "chain": "Ethereum",
     "category": "Liquid Staking",
     "defillama_symbol": "RPL",
@@ -7749,10 +7794,10 @@
   "259d171d2ec811146d393648": {
     "project_name": "Curve DEX",
     "url": "https://curve.finance",
-    "description": "DeFi protokolü. Kategori: Dexs. TVL: $1,039,235,257. Chain: Multi-Chain. DeFiLlama symbol alanı: CRV.",
+    "description": "DeFi protokolü. Kategori: Dexs. TVL: $1,030,776,261. Chain: Multi-Chain. DeFiLlama symbol alanı: CRV.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1039235257,
+    "tvl_usd": 1030776261,
     "chain": "Multi-Chain",
     "category": "Dexs",
     "defillama_symbol": "CRV",
@@ -7769,10 +7814,10 @@
   "54b5b49a9d0a629815c6c60f": {
     "project_name": "Venus Core Pool",
     "url": "https://app.venus.io/#/core-pool",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $1,024,536,046. Chain: Multi-Chain. DeFiLlama symbol alanı: XVS.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $1,002,209,310. Chain: Multi-Chain. DeFiLlama symbol alanı: XVS.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1024536046,
+    "tvl_usd": 1002209310,
     "chain": "Multi-Chain",
     "category": "Lending",
     "defillama_symbol": "XVS",
@@ -7789,10 +7834,10 @@
   "69f6f007ea553e15a4ecafcd": {
     "project_name": "USDD",
     "url": "https://usdd.io/",
-    "description": "DeFi protokolü. Kategori: CDP. TVL: $1,050,092,865. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: CDP. TVL: $1,041,626,786. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1050092865,
+    "tvl_usd": 1041626786,
     "chain": "Multi-Chain",
     "category": "CDP",
     "defillama_symbol": "-",
@@ -7809,10 +7854,10 @@
   "745872d9f0f9c6868958d125": {
     "project_name": "Pendle V2",
     "url": "https://pendle.finance/",
-    "description": "DeFi protokolü. Kategori: Yield. TVL: $1,007,096,559. Chain: Multi-Chain. DeFiLlama symbol alanı: PENDLE.",
+    "description": "DeFi protokolü. Kategori: Yield. TVL: $1,002,513,365. Chain: Multi-Chain. DeFiLlama symbol alanı: PENDLE.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1007096559,
+    "tvl_usd": 1002513365,
     "chain": "Multi-Chain",
     "category": "Yield",
     "defillama_symbol": "PENDLE",
@@ -8341,10 +8386,10 @@
   "641c6e620f49c3b3f1c2383d": {
     "project_name": "Concrete",
     "url": "https://app.concrete.xyz",
-    "description": "DeFi protokolü. Kategori: Onchain Capital Allocator. TVL: $1,106,503,564. Chain: Multi-Chain. DeFiLlama symbol alanı: CT.",
+    "description": "DeFi protokolü. Kategori: Onchain Capital Allocator. TVL: $1,091,672,847. Chain: Multi-Chain. DeFiLlama symbol alanı: CT.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1106503564,
+    "tvl_usd": 1091672847,
     "chain": "Multi-Chain",
     "category": "Onchain Capital Allocator",
     "defillama_symbol": "CT",
@@ -8353,7 +8398,7 @@
       "page_ok": true,
       "resolved_url": "https://app.concrete.xyz/earn",
       "page_title": "Earn | Concrete",
-      "page_text": "Earn | Concrete Earn Earn Institutional Portfolio Earn Institutional Portfolio You are accessing our products and services from a restricted jurisdiction. We do not allow access from certain jurisdictions including locations subject to sanctions restrictions and other jurisdictions where our services are ineligible for use. For more information, see our Terms of Use . If you think this is an error, try refreshing the page or contacting support . The CT Token is Here The CT Token has launched and is available to claim on concretefoundation.xyz Claim CT Stake CT Deposits $1.179B Total value of deposits for all live Concrete Vaults. Volume $25.07B The value of all deposits, transfers and withdrawals Depositors 54K Total depositors into Concrete vaults. Live Concrete and partner curated Web3 protocols and decentralised finance strategies. Featured USDT 8.69% APY WBTC 1.89% APY USDC 11.42% APY USD1 8% APY Stake CT TVL TVL: Total Value Locked, the total amount held in the vault. 2.67M CT Points Points are the rewards for this vault Concrete Points Vault Token The token you receive representing your deposit in the vault. sCT Vault Address The unique vault identifier on the blockchain 0x27a7...9079 Ethereum Withdrawal Token CT Wallet Setup Fordefi secures each vault with a dedicated, policy‑controlled wallet that requires approved signers and enforced transaction rules for every on‑chain action. Fordefi Curator The custodian and operator of the vault Concrete Audited For a full list of audits, see our documentation article on Audits Halborn, Cantina More Concrete DeFi USDT TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $2.78M Live APY Live APY is a position weighted average of reported APYs. 8.69% + points Live APY 8.69% Concrete Points 7 Day Live APY 7-Day live APY is a position weighted average of reported APYs over the trailing 7 days. 8.62% Total Volume The value of all deposits, transfers and withdrawals $ 4.53B Vault Token The token you receive representing your deposit in the vault. ctDefiUSDT Vault Address The unique vault identifier on the blockchain 0x0e60...251e Ethereum Withdrawal Token USDT Wallet Setup Fordefi secures each vault with a dedicated, policy‑controlled wallet that requires approved signers and enforced transaction rules for every on‑chain action. Fordefi Curator The custodian and operator of the vault Concrete Audited For a full list of audits, see our documentation article on Audits Halborn, Cantina More WBTC Vault TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $2.51M Live APY Live APY is a position weighted average of reported APYs. 1.89% + points Live APY 1.89% Concrete Points 7 Day Live APY 7-Day live APY is a position weighted average of reported APYs over the trailing 7 days. 1.62% Total Volume The value of all deposits, transfers and withdrawals $ 72.8M Vault Token The token you receive representing your deposit in the vault. ctWBTC Vault Address The unique vault identifier on the blockchain 0xf72b...a1c4 Ethereum Withdrawal Token WBTC Wallet Setup The vault’s privileged keys are secured through Fireblocks using MPC-CMP. Roles, approval quorums and transaction policies govern transactions using those keys. Fireblocks Curator The custodian and operator of the vault Concrete Audited For a full list of audits, see our documentation article on Audits Halborn, Code4rena, Zellic More Concrete Frontier TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $39.4K Live APY Live APY is a position weighted average of reported APYs. 11.42% Live APY 11.42% 7 Day Live APY 7-Day live APY is a position weighted average of reported APYs over the trailing 7 days. 11.63% Total Volume The value of all deposits, transfers and withdrawals $ 8.63M Vault Token The token you receive representing your deposit in the vault. ctFrontierUSDC Vault Address The unique vault identifier on the blockchain 0xe72d...fb88 Ethereum Withdrawal Token USDC Wallet Setup The vault’s privileged keys are secured through Fireblocks using MPC-CMP. Roles, approval quorums and transaction policies govern transactions using those keys. Fireblocks Curator The custodian and operator of the vault Concrete Audited For a full list of audits, see our documentation article on Audits Halborn, Cantina More RWA USD1 TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $28.4M Target APY Target APY is the APY this vault aims to achieve. 8% Target APY 8% Total Volume The value of all deposits, transfers and withdrawals $ 55.9M Curator The custodian and operator of the vault Concrete Network The blockchain which this vault operates on Ethereum Auditors Halborn Permissioned This vault requires permission in order to participate. More WeETH Vault TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $600M APY Private Total Volume The value of all deposits, transfers and withdrawals $ 9.54B Curator The custodian and operator of the vault Concrete Network The blockchain which this vault operates on Ethereum Auditors Cantina Halborn Permissioned This vault requires permission in order to participate. More WLFIcx TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $100M APY Private Total Volume The value of all deposits, transfers and withdrawals $ 298M Curator The custodian and operator of the vault Concrete Network The blockchain which this vault operates on Ethereum Permission required This vault requires permission in order to participate. More Completed Campaigns Stable Total Deposited $825M Peak APY + Rewards Peak APY + Rewards is the highest APY this campaign reached, including rewards. 3.52% Total Volume The value of all deposits, transfers and withdrawals $3.96B Curator The custodian and operator of the vault Concrete Networks The blockchain which this vault operates on Stable, Ethereum Completed campaign Some Concrete vaults run as time-bounded campaigns. When such a campaign reaches its end date, the vault transitions to withdraw-only mode through a controlled wind-down process. Read more. USDai DEX & MM Total Deposited $102M Peak APY + Rewards Peak APY + Rewards is the highest APY this campaign reached, including rewards. 23.51% Total Volume The value of all deposits, transfers and withdrawals $914M Curator The custodian and operator of the vault USDai Network The blockchain which this vault operates on Arbitrum Completed campaign Some Concrete vaults run as time-bounded campaigns. When such a campaign reaches its end date, the vault transitions to withdraw-only mode through a controlled wind-down process. Read more. View All Completed Campaigns © 2026 Concrete. All rights reserved. Documentation Discord Privacy Terms of Use",
+      "page_text": "Earn | Concrete Earn Earn Institutional Portfolio Earn Institutional Portfolio You are accessing our products and services from a restricted jurisdiction. We do not allow access from certain jurisdictions including locations subject to sanctions restrictions and other jurisdictions where our services are ineligible for use. For more information, see our Terms of Use . If you think this is an error, try refreshing the page or contacting support . The CT Token is Here The CT Token has launched and is available to claim on concretefoundation.xyz Claim CT Stake CT Deposits $1.162B Total value of deposits for all live Concrete Vaults. Volume $25.07B The value of all deposits, transfers and withdrawals Depositors 54K Total depositors into Concrete vaults. Live Concrete and partner curated Web3 protocols and decentralised finance strategies. Featured USDT 8.69% APY WBTC 1.96% APY USDC 11.42% APY USD1 8% APY Stake CT TVL TVL: Total Value Locked, the total amount held in the vault. 2.67M CT Points Points are the rewards for this vault Concrete Points Vault Token The token you receive representing your deposit in the vault. sCT Vault Address The unique vault identifier on the blockchain 0x27a7...9079 Ethereum Withdrawal Token CT Wallet Setup Fordefi secures each vault with a dedicated, policy‑controlled wallet that requires approved signers and enforced transaction rules for every on‑chain action. Fordefi Curator The custodian and operator of the vault Concrete Audited For a full list of audits, see our documentation article on Audits Halborn, Cantina More Concrete DeFi USDT TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $2.78M Live APY Live APY is a position weighted average of reported APYs. 8.69% + points Live APY 8.69% Concrete Points 7 Day Live APY 7-Day live APY is a position weighted average of reported APYs over the trailing 7 days. 8.62% Total Volume The value of all deposits, transfers and withdrawals $ 4.53B Vault Token The token you receive representing your deposit in the vault. ctDefiUSDT Vault Address The unique vault identifier on the blockchain 0x0e60...251e Ethereum Withdrawal Token USDT Wallet Setup Fordefi secures each vault with a dedicated, policy‑controlled wallet that requires approved signers and enforced transaction rules for every on‑chain action. Fordefi Curator The custodian and operator of the vault Concrete Audited For a full list of audits, see our documentation article on Audits Halborn, Cantina More WBTC Vault TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $2.44M Live APY Live APY is a position weighted average of reported APYs. 1.96% + points Live APY 1.96% Concrete Points 7 Day Live APY 7-Day live APY is a position weighted average of reported APYs over the trailing 7 days. 1.64% Total Volume The value of all deposits, transfers and withdrawals $ 72.8M Vault Token The token you receive representing your deposit in the vault. ctWBTC Vault Address The unique vault identifier on the blockchain 0xf72b...a1c4 Ethereum Withdrawal Token WBTC Wallet Setup The vault’s privileged keys are secured through Fireblocks using MPC-CMP. Roles, approval quorums and transaction policies govern transactions using those keys. Fireblocks Curator The custodian and operator of the vault Concrete Audited For a full list of audits, see our documentation article on Audits Halborn, Code4rena, Zellic More Concrete Frontier TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $39.4K Live APY Live APY is a position weighted average of reported APYs. 11.42% Live APY 11.42% 7 Day Live APY 7-Day live APY is a position weighted average of reported APYs over the trailing 7 days. 11.61% Total Volume The value of all deposits, transfers and withdrawals $ 8.63M Vault Token The token you receive representing your deposit in the vault. ctFrontierUSDC Vault Address The unique vault identifier on the blockchain 0xe72d...fb88 Ethereum Withdrawal Token USDC Wallet Setup The vault’s privileged keys are secured through Fireblocks using MPC-CMP. Roles, approval quorums and transaction policies govern transactions using those keys. Fireblocks Curator The custodian and operator of the vault Concrete Audited For a full list of audits, see our documentation article on Audits Halborn, Cantina More RWA USD1 TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $28.4M Target APY Target APY is the APY this vault aims to achieve. 8% Target APY 8% Total Volume The value of all deposits, transfers and withdrawals $ 55.9M Curator The custodian and operator of the vault Concrete Network The blockchain which this vault operates on Ethereum Auditors Halborn Permissioned This vault requires permission in order to participate. More WeETH Vault TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $587M APY Private Total Volume The value of all deposits, transfers and withdrawals $ 9.54B Curator The custodian and operator of the vault Concrete Network The blockchain which this vault operates on Ethereum Auditors Cantina Halborn Permissioned This vault requires permission in order to participate. More WLFIcx TVL TVL: Total Value Locked, the total amount held in the vault, valued in USD. $101M APY Private Total Volume The value of all deposits, transfers and withdrawals $ 298M Curator The custodian and operator of the vault Concrete Network The blockchain which this vault operates on Ethereum Permission required This vault requires permission in order to participate. More Completed Campaigns Stable Total Deposited $825M Peak APY + Rewards Peak APY + Rewards is the highest APY this campaign reached, including rewards. 3.52% Total Volume The value of all deposits, transfers and withdrawals $3.96B Curator The custodian and operator of the vault Concrete Networks The blockchain which this vault operates on Stable, Ethereum Completed campaign Some Concrete vaults run as time-bounded campaigns. When such a campaign reaches its end date, the vault transitions to withdraw-only mode through a controlled wind-down process. Read more. USDai DEX & MM Total Deposited $102M Peak APY + Rewards Peak APY + Rewards is the highest APY this campaign reached, including rewards. 23.51% Total Volume The value of all deposits, transfers and withdrawals $914M Curator The custodian and operator of the vault USDai Network The blockchain which this vault operates on Arbitrum Completed campaign Some Concrete vaults run as time-bounded campaigns. When such a campaign reaches its end date, the vault transitions to withdraw-only mode through a controlled wind-down process. Read more. View All Completed Campaigns © 2026 Concrete. All rights reserved. Documentation Discord Privacy Terms of Use",
       "links": [
         {
           "text": "",
@@ -8416,7 +8461,7 @@
           "same_domain": true
         },
         {
-          "text": "WBTC 1.89% APY",
+          "text": "WBTC 1.96% APY",
           "url": "https://app.concrete.xyz/earn#Ethereum-WBTC-Vault-0xf72bd5a56de97840f1fdd3641b556126c10aa1c4",
           "same_domain": true
         },
@@ -8547,10 +8592,10 @@
   "78f84f172c47bc0a7be988e9": {
     "project_name": "Falcon Finance",
     "url": "https://app.falcon.finance",
-    "description": "DeFi protokolü. Kategori: Basis Trading. TVL: $1,557,284,567. Chain: Ethereum. DeFiLlama symbol alanı: FF.",
+    "description": "DeFi protokolü. Kategori: Basis Trading. TVL: $1,557,123,247. Chain: Ethereum. DeFiLlama symbol alanı: FF.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1557284567,
+    "tvl_usd": 1557123247,
     "chain": "Ethereum",
     "category": "Basis Trading",
     "defillama_symbol": "FF",
@@ -8643,10 +8688,10 @@
   "fb349ca300c00f90fecbc05b": {
     "project_name": "Raydium AMM",
     "url": "https://raydium.io",
-    "description": "DeFi protokolü. Kategori: Dexs. TVL: $910,955,079. Chain: Solana. DeFiLlama symbol alanı: RAY.",
+    "description": "DeFi protokolü. Kategori: Dexs. TVL: $878,999,414. Chain: Solana. DeFiLlama symbol alanı: RAY.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 910955079,
+    "tvl_usd": 878999414,
     "chain": "Solana",
     "category": "Dexs",
     "defillama_symbol": "RAY",
@@ -8663,10 +8708,10 @@
   "941a4fda1ea56ea38a4c4bac": {
     "project_name": "Kelp",
     "url": "https://kelpdao.xyz/restake/?utm_source=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10",
-    "description": "DeFi protokolü. Kategori: Liquid Restaking. TVL: $710,172,221. Chain: Ethereum. DeFiLlama symbol alanı: KERNEL.",
+    "description": "DeFi protokolü. Kategori: Liquid Restaking. TVL: $695,777,827. Chain: Ethereum. DeFiLlama symbol alanı: KERNEL.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 710172221,
+    "tvl_usd": 695777827,
     "chain": "Ethereum",
     "category": "Liquid Restaking",
     "defillama_symbol": "KERNEL",
@@ -8699,10 +8744,10 @@
   "c9f80a33000fbd2337433e30": {
     "project_name": "Jupiter Lend",
     "url": "https://jup.ag/?ref=f6y1ryr2snn3",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $940,361,785. Chain: Solana. DeFiLlama symbol alanı: JUP.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $940,448,875. Chain: Solana. DeFiLlama symbol alanı: JUP.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 940361785,
+    "tvl_usd": 940448875,
     "chain": "Solana",
     "category": "Lending",
     "defillama_symbol": "JUP",
@@ -8711,7 +8756,7 @@
       "page_ok": true,
       "resolved_url": "https://jup.ag/?ref=f6y1ryr2snn3",
       "page_title": "Jupiter: The Home of Onchain Finance",
-      "page_text": "Jupiter: The Home of Onchain Finance Jupiter Search anything Search tokens Search stocks Search perps Search predictions Search lend vaults Search traders / Rewards Connect Connecting Jupiter Trade Swap Pulse New Baskets New Perps Predict Gacha 1000x Beta Bridge Beta Earn Lend Vaults New Offerbook Beta Stake Portfolio v3 Overview Positions Transfer Watchlist More Get Help The Home of Onchain Finance Enter the Vaults Enter the Vaults Jupiter Vaults is now live to everyone, allowing you to earn yield from strategies run by independent curators. The new USDGO market is live on Jupiter Lend The new USDGO market is live on Jupiter Lend Earn up to 8% APY on your stables by lending your USDGO. Baskets are Live Baskets are Live Buy a curated set of tokens with one deposit. Market Limit - Take Profit DCA Ultra Ultra Ultra Sell 0.0 Buy Paste CA Connect USDC EPjF…Dt1v SOL So11…1112 Find Popular Tokens with Jupiter Spot Trade Your Opinions with Jupiter Prediction Markets Trade up to 250x Leverage with Jupiter Perps Earn Yield Simply with Jupiter Lend Vaults Maximize Your Yield with Jupiter Multiply Loops Trade Stocks Onchain with Jupiter Spot Send Crypto to Anyone as a Link with Jupiter Send Back to Swap",
+      "page_text": "Jupiter: The Home of Onchain Finance Jupiter Search anything Search tokens Search stocks Search perps Search predictions Search lend vaults Search traders / Rewards Connect Connecting Jupiter Trade Swap Pulse New Baskets New Perps Predict Gacha 1000x Beta Bridge Beta Earn Lend Vaults New Offerbook Beta Stake Portfolio v3 Overview Positions Transfer Watchlist More Get Help The Home of Onchain Finance Enter the Vaults Enter the Vaults Earn 12-26% APY through strategies run by independent curators. The new USDGO market is live on Jupiter Lend The new USDGO market is live on Jupiter Lend Currently earn over 10% APY on your stables by lending your USDGO. Baskets are Live Baskets are Live Buy a curated set of tokens with one deposit. Market Limit - Take Profit DCA Ultra Ultra Ultra Sell 0.0 Buy Paste CA Connect USDC EPjF…Dt1v SOL So11…1112 Find Popular Tokens with Jupiter Spot Trade Your Opinions with Jupiter Prediction Markets Trade up to 250x Leverage with Jupiter Perps Earn Yield Simply with Jupiter Lend Vaults Maximize Your Yield with Jupiter Multiply Loops Trade Stocks Onchain with Jupiter Spot Send Crypto to Anyone as a Link with Jupiter Send Back to Swap",
       "links": [
         {
           "text": "Jupiter",
@@ -8870,10 +8915,10 @@
   "f7c125385bf4574ab45aa9e4": {
     "project_name": "Kinetiq kHYPE",
     "url": "https://kinetiq.xyz/stake",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $722,068,282. Chain: Hyperliquid L1. DeFiLlama symbol alanı: KNTQ.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $686,210,526. Chain: Hyperliquid L1. DeFiLlama symbol alanı: KNTQ.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 722068282,
+    "tvl_usd": 686210526,
     "chain": "Hyperliquid L1",
     "category": "Liquid Staking",
     "defillama_symbol": "KNTQ",
@@ -9141,10 +9186,10 @@
   "24db0b69c38b8e1db120dfaa": {
     "project_name": "Jito Liquid Staking",
     "url": "https://jito.network",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $815,920,396. Chain: Solana. DeFiLlama symbol alanı: JTO.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $770,920,105. Chain: Solana. DeFiLlama symbol alanı: JTO.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 815920396,
+    "tvl_usd": 770920105,
     "chain": "Solana",
     "category": "Liquid Staking",
     "defillama_symbol": "JTO",
@@ -9357,10 +9402,10 @@
   "114ff8e1612e012ce1c5eb14": {
     "project_name": "StakeWise V3",
     "url": "https://stakewise.io/",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $763,001,874. Chain: Multi-Chain. DeFiLlama symbol alanı: SWISE.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $747,674,810. Chain: Multi-Chain. DeFiLlama symbol alanı: SWISE.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 763001874,
+    "tvl_usd": 747674810,
     "chain": "Multi-Chain",
     "category": "Liquid Staking",
     "defillama_symbol": "SWISE",
@@ -9704,10 +9749,10 @@
   "7387242ad7c2973d5e3f27e4": {
     "project_name": "Lista Lending",
     "url": "https://lista.org/lending",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $852,016,176. Chain: Multi-Chain. DeFiLlama symbol alanı: LISTA.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $832,476,717. Chain: Multi-Chain. DeFiLlama symbol alanı: LISTA.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 852016176,
+    "tvl_usd": 832476717,
     "chain": "Multi-Chain",
     "category": "Lending",
     "defillama_symbol": "LISTA",
@@ -9724,10 +9769,10 @@
   "4470c8c63e04b359d8031f6d": {
     "project_name": "Liquid Collective",
     "url": "https://liquidcollective.io",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $549,313,060. Chain: Ethereum. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $538,555,961. Chain: Ethereum. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 549313060,
+    "tvl_usd": 538555961,
     "chain": "Ethereum",
     "category": "Liquid Staking",
     "defillama_symbol": "-",
@@ -10145,10 +10190,10 @@
   "d543bb8c15614e0ff90f1dea": {
     "project_name": "Lista Liquid Staking",
     "url": "https://lista.org/",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $636,474,626. Chain: Binance. DeFiLlama symbol alanı: LISTA.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $612,345,158. Chain: Binance. DeFiLlama symbol alanı: LISTA.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 636474626,
+    "tvl_usd": 612345158,
     "chain": "Binance",
     "category": "Liquid Staking",
     "defillama_symbol": "LISTA",
@@ -10165,10 +10210,10 @@
   "45af1d4d184e6bd29a1d3a12": {
     "project_name": "Fluid Lending",
     "url": "https://www.fluid.io/",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $606,736,977. Chain: Multi-Chain. DeFiLlama symbol alanı: FLUID.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $600,184,964. Chain: Multi-Chain. DeFiLlama symbol alanı: FLUID.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 606736977,
+    "tvl_usd": 600184964,
     "chain": "Multi-Chain",
     "category": "Lending",
     "defillama_symbol": "FLUID",
@@ -10310,10 +10355,10 @@
   "6a7bbd95a9753099214e9415": {
     "project_name": "Lombard LBTC",
     "url": "https://www.lombard.finance/app/stake/?referrer=ssybnl",
-    "description": "DeFi protokolü. Kategori: Restaked BTC. TVL: $448,573,430. Chain: Multi-Chain. DeFiLlama symbol alanı: BARD.",
+    "description": "DeFi protokolü. Kategori: Restaked BTC. TVL: $439,646,917. Chain: Multi-Chain. DeFiLlama symbol alanı: BARD.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 448573430,
+    "tvl_usd": 439646917,
     "chain": "Multi-Chain",
     "category": "Restaked BTC",
     "defillama_symbol": "BARD",
@@ -10330,10 +10375,10 @@
   "ac2057717db16dddb72e19bb": {
     "project_name": "Obol",
     "url": "https://obol.org/",
-    "description": "DeFi protokolü. Kategori: Staking Pool. TVL: $1,154,736,198. Chain: Ethereum. DeFiLlama symbol alanı: OBOL.",
+    "description": "DeFi protokolü. Kategori: Staking Pool. TVL: $1,131,818,281. Chain: Ethereum. DeFiLlama symbol alanı: OBOL.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1154736198,
+    "tvl_usd": 1131818281,
     "chain": "Ethereum",
     "category": "Staking Pool",
     "defillama_symbol": "OBOL",
@@ -10721,10 +10766,10 @@
   "ab2bfac5d792b4c203a6c492": {
     "project_name": "Optimism Bridge",
     "url": "https://app.optimism.io/bridge/deposit",
-    "description": "DeFi protokolü. Kategori: Canonical Bridge. TVL: $472,243,116. Chain: Multi-Chain. DeFiLlama symbol alanı: OP.",
+    "description": "DeFi protokolü. Kategori: Canonical Bridge. TVL: $465,307,111. Chain: Multi-Chain. DeFiLlama symbol alanı: OP.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 472243116,
+    "tvl_usd": 465307111,
     "chain": "Multi-Chain",
     "category": "Canonical Bridge",
     "defillama_symbol": "OP",
@@ -10741,10 +10786,10 @@
   "ebaf592bdc84cbf3f3c82aa2": {
     "project_name": "mETH Protocol",
     "url": "https://www.methprotocol.xyz/",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $458,447,238. Chain: Ethereum. DeFiLlama symbol alanı: COOK.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $451,356,671. Chain: Ethereum. DeFiLlama symbol alanı: COOK.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 458447238,
+    "tvl_usd": 451356671,
     "chain": "Ethereum",
     "category": "Liquid Staking",
     "defillama_symbol": "COOK",
@@ -11208,10 +11253,10 @@
   "f7bff7336541eb7259a940ea": {
     "project_name": "Convex Finance",
     "url": "https://www.convexfinance.com/",
-    "description": "DeFi protokolü. Kategori: Yield. TVL: $464,555,718. Chain: Multi-Chain. DeFiLlama symbol alanı: CVX.",
+    "description": "DeFi protokolü. Kategori: Yield. TVL: $459,913,683. Chain: Multi-Chain. DeFiLlama symbol alanı: CVX.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 464555718,
+    "tvl_usd": 459913683,
     "chain": "Multi-Chain",
     "category": "Yield",
     "defillama_symbol": "CVX",
@@ -11525,10 +11570,10 @@
   "68faabb7ce387bdecd3858d6": {
     "project_name": "Ethena USDtb",
     "url": "https://usdtb.money",
-    "description": "DeFi protokolü. Kategori: RWA. TVL: $317,980,703. Chain: Ethereum. DeFiLlama symbol alanı: ENA.",
+    "description": "DeFi protokolü. Kategori: RWA. TVL: $317,884,259. Chain: Ethereum. DeFiLlama symbol alanı: ENA.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 317980703,
+    "tvl_usd": 317884259,
     "chain": "Ethereum",
     "category": "RWA",
     "defillama_symbol": "ENA",
@@ -12002,10 +12047,10 @@
   "c7811946a0f5abab8e3d837b": {
     "project_name": "Upshift",
     "url": "https://app.upshift.finance",
-    "description": "DeFi protokolü. Kategori: Onchain Capital Allocator. TVL: $500,347,712. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Onchain Capital Allocator. TVL: $496,930,411. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 500347712,
+    "tvl_usd": 496930411,
     "chain": "Multi-Chain",
     "category": "Onchain Capital Allocator",
     "defillama_symbol": "-",
@@ -12014,7 +12059,7 @@
       "page_ok": true,
       "resolved_url": "https://app.upshift.finance/",
       "page_title": "Upshift • Earn",
-      "page_text": "Upshift • Earn Deposit RWA Redeem Portfolio Points Leaderboard Referrals For businesses Connect wallet Onchain yield, from 24/7 T-bills to DeFi We build custom yield products for fintechs, across DeFi and regulated strategies. Our existing vaults for stablecoins, BTC, ETH and XRP are featured below. Building a product? Add Upshift vaults to your app . ​ Total deposited Spotlight Featured vaults Docs Cookie preferences Copyright © 2026 Upshift Onchain yield, from 24/7 T-bills to DeFi We build custom yield products for fintechs, across DeFi and regulated strategies. Our existing vaults for stablecoins, BTC, ETH and XRP are featured below. Building a product? Add Upshift vaults to your app . $542,933,473 Total deposited Spotlight Featured vaults Spotlight Sentora USD + 1 Sentora USD Vault provides diversified access to USD-denominated yield strategies executed fully onchain across blue-chip DeFi protocols. View vault · Deposit now TVL $110,188,620 Total APY ( 30D ) 7.60% Share price 1.0532 Featured vaults Doma HYPE Internet Vault Core $15.12M Total deposited 2.00% Total APY Deposit tokens WHYPE Available chains HyperEVM Rewards 5× 8× Deposit NEMO ETH Prime Enhanced $7.36M Total deposited 14.79% Total APY (30D) Deposit tokens WETH Available chains Ethereum Rewards 5× Deposit Flare XRP Yield Vault Core $32.66M Total deposited 0.91% Total APY (30D) Deposit tokens FXRP Available chains Flare Mainnet Rewards 5× Deposit earnAUSD Core $21.73M Total deposited 6.31% Total APY (30D) Deposit tokens Available chains Monad Rewards 5× Deposit All vaults 40 All vaults 40 Cash 1 Core 28 <8% Enhanced 11 8%+ Recently launched 2 New Withdraw only 2 1 2 3 4 All tokens All chains All strategists Composability Vault Deposit TVL Cap Total APY ⓘ Rewards Strategist Tokenized T-bill vault Cash Money market funds — — 3-4% Indicative — Upshift Get in touch Sentora USD Core + 1 $110,188,620 110.22M USDC — 7.60% (30D) 5× Sentora Deposit Sentora USDC Enhanced $56,906,468 56.92M USDC — 8.25% (7D) 5× Sentora Deposit USPC Custody Vault Core $35,588,954 35.6M USDC — 6.17% (30D) — — Deposit Flare XRP Yield Vault Core $32,658,856 31.74M FXRP 71% 0.91% (30D) 5× Clearstar Labs Deposit Gami earnUSDC Enhanced $32,474,770 32.48M USDC — 10.00% (30D) 5× Gami Labs Deposit Doma Sentora Frontier Vault New Enhanced $30,289,409 30.3M USDC — 8.29% (7D) 5× 8× Sentora Deposit earnAUSD Core $21,725,707 21.73M AUSD — 6.31% (30D) 5× Gamma Research Deposit NEMO USDC Prime Enhanced $17,919,670 17.92M USDC — 25.61% (30D) 5× NEMO Deposit Doma HYPE Internet Vault Core $15,124,548 207.93K WHYPE — 2.00% Target 5× 8× August Deposit Kelp Gain Core $11,781,826 5.59K rsETH — 4.37% (30D) 5× 3× K3 Capital Deposit Tori Ecosystem Vault Core $10,262,824 10.26M trUSD — 5.83% (30D) 5× 35× RockawayX Deposit Tokenized T-bill vault Cash Money market funds Ethereum TVL — APY 3-4% Indicative Deposit USDC Strategist Upshift Cap — Rewards — Get in touch Sentora USD Core Ethereum TVL $110,188,620 110.22M USDC APY 7.60% (30D) Deposit USDC Strategist Sentora Cap — Rewards 5× Deposit Sentora USDC Enhanced Stellar TVL $56,906,468 56.92M USDC APY 8.25% (7D) Deposit USDC Strategist Sentora Cap — Rewards 5× Deposit USPC Custody Vault Core Ethereum TVL $35,588,954 35.6M USDC APY 6.17% (30D) Deposit USDC Strategist — Cap — Rewards — Deposit Flare XRP Yield Vault Core Flare Mainnet TVL $32,658,856 31.74M FXRP APY 0.91% (30D) Deposit FXRP Strategist Clearstar Labs Cap 71% Rewards 5× Deposit Gami earnUSDC Enhanced Stellar TVL $32,474,770 32.48M USDC APY 10.00% (30D) Deposit USDC Strategist Gami Labs Cap — Rewards 5× Deposit Doma Sentora Frontier Vault New Enhanced Ethereum TVL $30,289,409 30.3M USDC APY 8.29% (7D) Deposit USDC Strategist Sentora Cap — Rewards 5× 8× Deposit earnAUSD Core Monad TVL $21,725,707 21.73M AUSD APY 6.31% (30D) Deposit AUSD Strategist Gamma Research Cap — Rewards 5× Deposit NEMO USDC Prime Enhanced Ethereum TVL $17,919,670 17.92M USDC APY 25.61% (30D) Deposit USDC Strategist NEMO Cap — Rewards 5× Deposit Doma HYPE Internet Vault Core HyperEVM TVL $15,124,548 207.93K WHYPE APY 2.00% Target Deposit WHYPE Strategist August Cap — Rewards 5× 8× Deposit Kelp Gain Core Ethereum TVL $11,781,826 5.59K rsETH APY 4.37% (30D) Deposit rsETH Strategist K3 Capital Cap — Rewards 5× 3× Deposit Tori Ecosystem Vault Core Ethereum TVL $10,262,824 10.26M trUSD APY 5.83% (30D) Deposit trUSD Strategist RockawayX Cap — Rewards 5× 35× Deposit 1 2 3 4",
+      "page_text": "Upshift • Earn Deposit RWA Redeem Portfolio Points Leaderboard Referrals For businesses Connect wallet Onchain yield, from 24/7 T-bills to DeFi We build custom yield products for fintechs, across DeFi and regulated strategies. Our existing vaults for stablecoins, BTC, ETH and XRP are featured below. Building a product? Add Upshift vaults to your app . ​ Total deposited Spotlight Featured vaults Docs Cookie preferences Copyright © 2026 Upshift Onchain yield, from 24/7 T-bills to DeFi We build custom yield products for fintechs, across DeFi and regulated strategies. Our existing vaults for stablecoins, BTC, ETH and XRP are featured below. Building a product? Add Upshift vaults to your app . $543,516,630 Total deposited Spotlight Featured vaults Spotlight Sentora USD + 1 Sentora USD Vault provides diversified access to USD-denominated yield strategies executed fully onchain across blue-chip DeFi protocols. View vault · Deposit now TVL $110,062,163 Total APY ( 30D ) 7.60% Share price 1.0532 Featured vaults Doma HYPE Internet Vault Core $14.47M Total deposited 2.00% Total APY Deposit tokens WHYPE Available chains HyperEVM Rewards 5× 8× Deposit NEMO ETH Prime Enhanced $7.21M Total deposited 14.79% Total APY (30D) Deposit tokens WETH Available chains Ethereum Rewards 5× Deposit Flare XRP Yield Vault Core $31.43M Total deposited 1.28% Total APY (30D) Deposit tokens FXRP Available chains Flare Mainnet Rewards 5× Deposit earnAUSD Core $21.71M Total deposited 6.31% Total APY (30D) Deposit tokens Available chains Monad Rewards 5× Deposit All vaults 40 All vaults 40 Cash 1 Core 29 <8% Enhanced 10 8%+ Recently launched 2 New Withdraw only 2 1 2 3 4 All tokens All chains All strategists Composability Vault Deposit TVL Cap Total APY ⓘ Rewards Strategist Tokenized T-bill vault Cash Money market funds — — 3-4% Indicative — Upshift Get in touch Sentora USD Core + 1 $110,062,163 110.09M USDC — 7.60% (30D) 5× Sentora Deposit Sentora USDC Enhanced $56,908,769 56.92M USDC — 8.25% (7D) 5× Sentora Deposit USPC Custody Vault Core $35,595,420 35.6M USDC — 6.12% (30D) — — Deposit Gami earnUSDC Enhanced $32,476,083 32.48M USDC — 10.00% (30D) 5× Gami Labs Deposit Flare XRP Yield Vault Core $31,426,759 31.44M FXRP 70% 1.28% (30D) 5× Clearstar Labs Deposit Doma Sentora Frontier Vault New Enhanced $30,290,656 30.3M USDC — 8.29% (7D) 5× 8× Sentora Deposit earnAUSD Core $21,707,900 21.73M AUSD — 6.31% (30D) 5× Gamma Research Deposit NEMO USDC Prime Enhanced $17,774,655 17.78M USDC — 24.57% (30D) 5× NEMO Deposit Doma HYPE Internet Vault Core $14,470,063 207.94K WHYPE — 2.00% Target 5× 8× August Deposit Kelp Gain Core $11,534,267 5.59K rsETH — 4.37% (30D) 5× 3× K3 Capital Deposit Tori Ecosystem Vault Core $10,260,417 10.26M trUSD — 5.83% (30D) 5× 35× RockawayX Deposit Tokenized T-bill vault Cash Money market funds Ethereum TVL — APY 3-4% Indicative Deposit USDC Strategist Upshift Cap — Rewards — Get in touch Sentora USD Core Ethereum TVL $110,062,163 110.09M USDC APY 7.60% (30D) Deposit USDC Strategist Sentora Cap — Rewards 5× Deposit Sentora USDC Enhanced Stellar TVL $56,908,769 56.92M USDC APY 8.25% (7D) Deposit USDC Strategist Sentora Cap — Rewards 5× Deposit USPC Custody Vault Core Ethereum TVL $35,595,420 35.6M USDC APY 6.12% (30D) Deposit USDC Strategist — Cap — Rewards — Deposit Gami earnUSDC Enhanced Stellar TVL $32,476,083 32.48M USDC APY 10.00% (30D) Deposit USDC Strategist Gami Labs Cap — Rewards 5× Deposit Flare XRP Yield Vault Core Flare Mainnet TVL $31,426,759 31.44M FXRP APY 1.28% (30D) Deposit FXRP Strategist Clearstar Labs Cap 70% Rewards 5× Deposit Doma Sentora Frontier Vault New Enhanced Ethereum TVL $30,290,656 30.3M USDC APY 8.29% (7D) Deposit USDC Strategist Sentora Cap — Rewards 5× 8× Deposit earnAUSD Core Monad TVL $21,707,900 21.73M AUSD APY 6.31% (30D) Deposit AUSD Strategist Gamma Research Cap — Rewards 5× Deposit NEMO USDC Prime Enhanced Ethereum TVL $17,774,655 17.78M USDC APY 24.57% (30D) Deposit USDC Strategist NEMO Cap — Rewards 5× Deposit Doma HYPE Internet Vault Core HyperEVM TVL $14,470,063 207.94K WHYPE APY 2.00% Target Deposit WHYPE Strategist August Cap — Rewards 5× 8× Deposit Kelp Gain Core Ethereum TVL $11,534,267 5.59K rsETH APY 4.37% (30D) Deposit rsETH Strategist K3 Capital Cap — Rewards 5× 3× Deposit Tori Ecosystem Vault Core Ethereum TVL $10,260,417 10.26M trUSD APY 5.83% (30D) Deposit trUSD Strategist RockawayX Cap — Rewards 5× 35× Deposit 1 2 3 4",
       "links": [
         {
           "text": "",
@@ -12138,12 +12183,12 @@
         },
         {
           "text": "",
-          "url": "https://app.upshift.finance/vaults/flare-mainnet/flare-xrp-yield-vault",
+          "url": "https://app.upshift.finance/vaults/stellar/gami-earnusdc",
           "same_domain": true
         },
         {
           "text": "",
-          "url": "https://app.upshift.finance/vaults/stellar/gami-earnusdc",
+          "url": "https://app.upshift.finance/vaults/flare-mainnet/flare-xrp-yield-vault",
           "same_domain": true
         },
         {
@@ -12318,10 +12363,10 @@
   "4410bcb98e6e76f2137e9e74": {
     "project_name": "Polymarket International",
     "url": "https://polymarket.com",
-    "description": "DeFi protokolü. Kategori: Prediction Market. TVL: $322,242,291. Chain: Polygon. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Prediction Market. TVL: $319,530,646. Chain: Polygon. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 322242291,
+    "tvl_usd": 319530646,
     "chain": "Polygon",
     "category": "Prediction Market",
     "defillama_symbol": "-",
@@ -12330,7 +12375,7 @@
       "page_ok": true,
       "resolved_url": "https://polymarket.com/",
       "page_title": "Polymarket | The World’s Largest Prediction Market™",
-      "page_text": "Polymarket | The World’s Largest Prediction Market™ Skip to main content To trade in the US, go to polymarket.us Predict Perps Sections Trending Combos Perps Breaking New Live Politics Sports Crypto Esports Iran Finance Geopolitics Tech Elections Culture Economy Weather Mentions Art More More To trade in the US, go to polymarket.us Polymarket | The World’s Largest Prediction Market™ Featured markets Next CEO of NVIDIA? Jan 1, 2029 Ian Buck 25% Rene Haas 22% $1M Vol · 2 more Fed Decision in December? Dec 10, 2026 25 bps increase 88% 50+ bps increase 10% $33M Vol · 2 more Jensen Huang divorce by...? Apr 1, 2027 March 31, 2027 36% December 31, 2026 20% $907K Vol Dota 2: Team Liquid vs LGD Gaming (BO3) - 1win Essence Group C Live Game 3 • Best of 3 Team Liquid 9% LGD Gaming 91% $2M Vol Fourth Jensen Huang affair reported by...? Jan 1, 2027 December 31 66% November 20 36% $181K Vol · 1 more Howard Lutnick out as Secretary of Commerce by...? Jan 1, 2027 December 31 55% November 30 35% $139K Vol · 1 more Anthropic IPO Closing Market Cap Jan 1, 2028 $1.25–$1.5T 43% <$1.25T 22% $7M Vol · 2 more Prime Minister of Israel after the next election? Oct 28, 2026 Gadi Eizenkot 63% Benjamin Netanyahu 21% $92M Vol · 2 more Presidential Election Winner 2028 Nov 8, 2028 Jon Ossoff 17% JD Vance 13% $741M Vol · 2 more Tesla and SpaceX merger officially announced by...? Jan 1, 2028 December 31, 2027 81% June 30, 2027 75% $2M Vol · 2 more Bitcoin Up or Down - November 13, 2:40PM-2:45PM ET Up Down $13M Vol Next Senate Majority Leader? Nov 4, 2026 Chuck Schumer 86% Chris Van Hollen 14% $1M Vol · 2 more Featured markets Next CEO of NVIDIA? Ian Buck 25% Rene Haas 22% Colette Kress 8% Johny Srouji 8% The New York Times ・ Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates. WSJ ・ Jensen Huang Resigns, Nvidia Starts Search for Next CEO | What’s News for Nov. 12 Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO? BBC ・ How Jensen Huang's scandal unfolded - and what's next for Nvidia? The New York Times ・ Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates. WSJ ・ Jensen Huang Resigns, Nvidia Starts Search for Next CEO | What’s News for Nov. 12 Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO? BBC ・ How Jensen Huang's scandal unfolded - and what's next for Nvidia? The New York Times ・ Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates. WSJ ・ Jensen Huang Resigns, Nvidia Starts Search for Next CEO | What’s News for Nov. 12 Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO? BBC ・ How Jensen Huang's scandal unfolded - and what's next for Nvidia? Ian Buck 25% Rene Haas 22% Colette Kress 8% Johny Srouji 8% $1M Vol Ends Jan 1, 2029 · Fed Decision in December? 25 bps increase 88% 50+ bps increase 10% No change 2% 25 bps decrease 1% WSJ ・ Federal Reserve to Forgo Rate Decision at October 2027 Meeting Reuters ・ Fed officials open door to a quicker round of rate hikes as inflation worsens Bloomberg.com ・ Kevin Warsh Is Now Free to Unleash His Inner Hawk The New York Times ・ Fewer Fed Meetings Raise Stakes of Warsh’s Communications The Washington Post ・ The Fed chief said AI would tame inflation. His colleagues disagree. WSJ ・ Federal Reserve to Forgo Rate Decision at October 2027 Meeting Reuters ・ Fed officials open door to a quicker round of rate hikes as inflation worsens Bloomberg.com ・ Kevin Warsh Is Now Free to Unleash His Inner Hawk The New York Times ・ Fewer Fed Meetings Raise Stakes of Warsh’s Communications The Washington Post ・ The Fed chief said AI would tame inflation. His colleagues disagree. WSJ ・ Federal Reserve to Forgo Rate Decision at October 2027 Meeting Reuters ・ Fed officials open door to a quicker round of rate hikes as inflation worsens Bloomberg.com ・ Kevin Warsh Is Now Free to Unleash His Inner Hawk The New York Times ・ Fewer Fed Meetings Raise Stakes of Warsh’s Communications The Washington Post ・ The Fed chief said AI would tame inflation. His colleagues disagree. 25 bps increase 88% 50+ bps increase 10% No change 2% 25 bps decrease 1% $33M Vol Monthly · Jensen Huang divorce by...? March 31, 2027 36% December 31, 2026 20% The New York Times ・ Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving BBC ・ Who is the suspected Chinese spy at centre of the Nvidia investigation? Bloomberg.com ・ The Huang Scandal Stirs Up the Murk Around Trump and Money WSJ ・ ‘He Said, She Said: Till Death Do Us Part’ Review: A Miserable Divorce on Paramount+ AP News ・ Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage The New York Times ・ Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving BBC ・ Who is the suspected Chinese spy at centre of the Nvidia investigation? Bloomberg.com ・ The Huang Scandal Stirs Up the Murk Around Trump and Money WSJ ・ ‘He Said, She Said: Till Death Do Us Part’ Review: A Miserable Divorce on Paramount+ AP News ・ Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage The New York Times ・ Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving BBC ・ Who is the suspected Chinese spy at centre of the Nvidia investigation? Bloomberg.com ・ The Huang Scandal Stirs Up the Murk Around Trump and Money WSJ ・ ‘He Said, She Said: Till Death Do Us Part’ Review: A Miserable Divorce on Paramount+ AP News ・ Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage March 31, 2027 36% December 31, 2026 20% $907K Vol Ends Apr 1, 2027 · Team Liquid vs. LGD Gaming Sports · Esports · Dota 2 Team Liquid vs. LGD Gaming Sports · Esports · Dota 2 Team Liquid LGD Gaming Spread LIQUID -1.5 LGD +1.5 Total O 2.5 U 2.5 Spread LIQUID -1.5 LGD +1.5 Total O 2.5 U 2.5 Team Liquid 1 1 Game 3 • Best of 3 LGD Gaming $2M Vol Fourth Jensen Huang affair reported by...? December 31 66% November 20 36% November 13 7% The Washington Post ・ Nvidia stood behind Jensen Huang. Now comes the reckoning. The New York Times ・ Jensen Huang Resigns as Nvidia CEO After Affairs: Live Updates Reuters ・ Nvidia faces deepening scrutiny over China chip ties, CEO affair Bloomberg.com ・ Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO WSJ ・ A Timeline of the Scandals That Brought Down Nvidia CEO Jensen Huang The Washington Post ・ Nvidia stood behind Jensen Huang. Now comes the reckoning. The New York Times ・ Jensen Huang Resigns as Nvidia CEO After Affairs: Live Updates Reuters ・ Nvidia faces deepening scrutiny over China chip ties, CEO affair Bloomberg.com ・ Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO WSJ ・ A Timeline of the Scandals That Brought Down Nvidia CEO Jensen Huang The W",
+      "page_text": "Polymarket | The World’s Largest Prediction Market™ Skip to main content To trade in the US, go to polymarket.us Predict Perps Sections Trending Combos Perps Breaking New Live Politics Sports Crypto Esports Iran Finance Geopolitics Tech Elections Culture Economy Weather Mentions Art More More To trade in the US, go to polymarket.us Polymarket | The World’s Largest Prediction Market™ Featured markets Next CEO of NVIDIA? Jan 1, 2029 Ian Buck 24% Rene Haas 21% $2M Vol · 2 more Bitcoin Up or Down - November 14, 1:25AM-1:30AM ET Up Down $12M Vol UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) UFC · Nov 14, 10:00 PM Josh Hokit 34% Ciryl Gane 67% $2M Vol · 1 more Will Jesus Christ return before 2027? Jan 1, 2027 Yes 1% No 99% $69M Vol Jensen Huang divorce by...? Apr 1, 2027 March 31, 2027 30% December 31, 2026 15% $961K Vol Fed Decision in December? Dec 10, 2026 25 bps increase 89% 50+ bps increase 8% $33M Vol · 2 more Next Senate Majority Leader? Nov 4, 2026 Chuck Schumer 87% Chris Van Hollen 12% $1M Vol · 2 more Tesla and SpaceX merger officially announced by...? Jan 1, 2028 December 31, 2027 84% June 30, 2027 76% $2M Vol · 2 more Featured markets Next CEO of NVIDIA? Ian Buck 24% Rene Haas 21% Colette Kress 10% Jensen Huang (No Change) 8% The New York Times ・ Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates. WSJ ・ Jensen Huang Resigns, Nvidia Starts Search for Next CEO | What’s News for Nov. 12 Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO? Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down BBC ・ How Jensen Huang's scandal unfolded - and what's next for Nvidia? The New York Times ・ Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates. WSJ ・ Jensen Huang Resigns, Nvidia Starts Search for Next CEO | What’s News for Nov. 12 Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO? Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down BBC ・ How Jensen Huang's scandal unfolded - and what's next for Nvidia? The New York Times ・ Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates. WSJ ・ Jensen Huang Resigns, Nvidia Starts Search for Next CEO | What’s News for Nov. 12 Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO? Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down BBC ・ How Jensen Huang's scandal unfolded - and what's next for Nvidia? Ian Buck 24% Rene Haas 21% Colette Kress 10% Jensen Huang (No Change) 8% $2M Vol Ends Jan 1, 2029 · Bitcoin Up or Down November 14, 1:25AM-1:30AM ET Bitcoin Up or Down November 14, 1:25AM-1:30AM ET Up 2.11x Down 1.9x ghachu you can like only one comment a time skibidi-dibidi porn is healthier than this shiii lotboy This market was made for the bots to milk us humans Cardenas I've been studying this market for several hours now... My conclusion is that it can go UP or DOWN. Very interesting. It-aint-much I refreshed like 500 times today :D ghachu you can like only one comment a time skibidi-dibidi porn is healthier than this shiii lotboy This market was made for the bots to milk us humans Cardenas I've been studying this market for several hours now... My conclusion is that it can go UP or DOWN. Very interesting. It-aint-much I refreshed like 500 times today :D ghachu you can like only one comment a time skibidi-dibidi porn is healthier than this shiii lotboy This market was made for the bots to milk us humans Cardenas I've been studying this market for several hours now... My conclusion is that it can go UP or DOWN. Very interesting. It-aint-much I refreshed like 500 times today :D $12M Vol Live · Josh Hokit vs. Ciryl Gane Sports · Combat · UFC Josh Hokit vs. Ciryl Gane Sports · Combat · UFC Josh Hokit Ciryl Gane Total 0.5 1.5 2.5 3.5 4.5 O 2.5 U 2.5 Total 0.5 1.5 2.5 3.5 4.5 O 2.5 U 2.5 Josh Hokit 10:00 PM November 14 Ciryl Gane $2M Vol Will Jesus Christ return before 2027? 1% chance Yes No Reuters ・ Peruvian town hopes Pope Leo will recognize four-century-old miracle The New York Times ・ How the Roman Empire Made Christianity What It Is Today The Washington Post ・ Before he was Pope Leo, he was their bishop. Now he’s back home. AP News ・ Pope Leo returns to a national celebration in his second homeland of Peru Bloomberg.com ・ Measles Forges a Deadly Trail Across America, Exposing Fractured Health System Reuters ・ Peruvian town hopes Pope Leo will recognize four-century-old miracle The New York Times ・ How the Roman Empire Made Christianity What It Is Today The Washington Post ・ Before he was Pope Leo, he was their bishop. Now he’s back home. AP News ・ Pope Leo returns to a national celebration in his second homeland of Peru Bloomberg.com ・ Measles Forges a Deadly Trail Across America, Exposing Fractured Health System Reuters ・ Peruvian town hopes Pope Leo will recognize four-century-old miracle The New York Times ・ How the Roman Empire Made Christianity What It Is Today The Washington Post ・ Before he was Pope Leo, he was their bishop. Now he’s back home. AP News ・ Pope Leo returns to a national celebration in his second homeland of Peru Bloomberg.com ・ Measles Forges a Deadly Trail Across America, Exposing Fractured Health System $69M Vol Ends Jan 1, 2027 · Jensen Huang divorce by...? March 31, 2027 30% December 31, 2026 15% The New York Times ・ Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving Bloomberg.com ・ Silicon Valley’s Group Chats Are Having a Moment of Jensanity BBC ・ Alice Huang: Who is suspected Chinese spy in Nvidia investigation? WSJ ・ ‘He Said, She Said: Till Death Do Us Part’ Review: A Miserable Divorce on Paramount+ AP News ・ Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage The New York Times ・ Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving Bloomberg.com ・ Silicon Valley’s Group Chats Are Having a Moment of Jensanity BBC ・ Alice Huang: Who is suspected Chinese spy in Nvidia investigation? WSJ ・ ‘He Said, She Said: Till Death Do Us Part’ Review: A Miserable Divorce on Paramount+ AP News ・ Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage The New York Times ・ Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving Bloomberg.com ・ Silicon Valley’s Group Chats Are Having a Moment of Jensanity BBC ・ Alice Huang: Who is suspected Chinese spy in Nvidia investigation? WSJ ・ ‘He Said, She Said: Till Death Do Us Part’ Review: A Miserable Divorce on Paramount+ AP News ・ Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage March 31, 2027 30% December 31, 2026 15% $961K Vol Ends Apr 1, 2027 · Fed Decision in December? 25 bps increase 89% 50+ bps increase 8% No change 3% 25 bps decrease <1% WSJ ・ Federal Reserve to Forgo Rate Decision at October 2027 Meeting Reuters ・ Fed officials open door to a quicker round of rate hikes as inflation w",
       "links": [
         {
           "text": "Skip to main content",
@@ -12458,28 +12503,58 @@
           "same_domain": true
         },
         {
-          "text": "Ian Buck 25%",
+          "text": "Ian Buck 24%",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia/will-ian-buck-be-the-next-ceo-of-nvidia",
           "same_domain": true
         },
         {
-          "text": "Rene Haas 22%",
+          "text": "Rene Haas 21%",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia/will-rene-haas-be-the-next-ceo-of-nvidia",
           "same_domain": true
         },
         {
           "text": "",
-          "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500",
           "same_domain": true
         },
         {
-          "text": "25 bps increase 88%",
-          "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+          "text": "Up",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500?outcomeIndex=0",
           "same_domain": true
         },
         {
-          "text": "50+ bps increase 10%",
-          "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+          "text": "Down",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500?outcomeIndex=1",
+          "same_domain": true
+        },
+        {
+          "text": "",
+          "url": "https://polymarket.com/sports/ufc/ufc-jos52-cir-2026-11-14",
+          "same_domain": true
+        },
+        {
+          "text": "Josh Hokit 34%",
+          "url": "https://polymarket.com/sports/ufc/ufc-jos52-cir-2026-11-14?outcomeIndex=0",
+          "same_domain": true
+        },
+        {
+          "text": "Ciryl Gane 67%",
+          "url": "https://polymarket.com/sports/ufc/ufc-jos52-cir-2026-11-14?outcomeIndex=1",
+          "same_domain": true
+        },
+        {
+          "text": "",
+          "url": "https://polymarket.com/event/will-jesus-christ-return-before-2027",
+          "same_domain": true
+        },
+        {
+          "text": "Yes 1%",
+          "url": "https://polymarket.com/event/will-jesus-christ-return-before-2027?outcomeIndex=0",
+          "same_domain": true
+        },
+        {
+          "text": "No 99%",
+          "url": "https://polymarket.com/event/will-jesus-christ-return-before-2027?outcomeIndex=1",
           "same_domain": true
         },
         {
@@ -12488,133 +12563,28 @@
           "same_domain": true
         },
         {
-          "text": "March 31, 2027 36%",
+          "text": "March 31, 2027 30%",
           "url": "https://polymarket.com/event/jensen-huang-divorce-in-2026/jensen-huang-divorce-by-march-31-2027",
           "same_domain": true
         },
         {
-          "text": "December 31, 2026 20%",
+          "text": "December 31, 2026 15%",
           "url": "https://polymarket.com/event/jensen-huang-divorce-in-2026/jensen-huang-divorce-in-2026",
           "same_domain": true
         },
         {
           "text": "",
-          "url": "https://polymarket.com/esports/dota-2/general/dota2-liquid-lgd-2026-11-14",
+          "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
           "same_domain": true
         },
         {
-          "text": "Team Liquid 9%",
-          "url": "https://polymarket.com/esports/dota-2/general/dota2-liquid-lgd-2026-11-14?outcomeIndex=0",
+          "text": "25 bps increase 89%",
+          "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
           "same_domain": true
         },
         {
-          "text": "LGD Gaming 91%",
-          "url": "https://polymarket.com/esports/dota-2/general/dota2-liquid-lgd-2026-11-14?outcomeIndex=1",
-          "same_domain": true
-        },
-        {
-          "text": "",
-          "url": "https://polymarket.com/event/fourth-jensen-huang-affair-reported-by-december-31",
-          "same_domain": true
-        },
-        {
-          "text": "December 31 66%",
-          "url": "https://polymarket.com/event/fourth-jensen-huang-affair-reported-by-december-31/fourth-jensen-huang-affair-reported-by-december-31",
-          "same_domain": true
-        },
-        {
-          "text": "November 20 36%",
-          "url": "https://polymarket.com/event/fourth-jensen-huang-affair-reported-by-december-31/fourth-jensen-huang-affair-reported-by-november-20",
-          "same_domain": true
-        },
-        {
-          "text": "",
-          "url": "https://polymarket.com/event/howard-lutnick-out-as-secretary-of-commerce-by-december-31",
-          "same_domain": true
-        },
-        {
-          "text": "December 31 55%",
-          "url": "https://polymarket.com/event/howard-lutnick-out-as-secretary-of-commerce-by-december-31/howard-lutnick-out-as-secretary-of-commerce-by-december-31",
-          "same_domain": true
-        },
-        {
-          "text": "November 30 35%",
-          "url": "https://polymarket.com/event/howard-lutnick-out-as-secretary-of-commerce-by-december-31/howard-lutnick-out-as-secretary-of-commerce-by-november-30",
-          "same_domain": true
-        },
-        {
-          "text": "",
-          "url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-higher-strikes",
-          "same_domain": true
-        },
-        {
-          "text": "$1.25–$1.5T 43%",
-          "url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-higher-strikes/will-anthropics-market-cap-be-between-1pt25t-and-1pt5t-at-market-close-on-ipo-day",
-          "same_domain": true
-        },
-        {
-          "text": "<$1.25T 22%",
-          "url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-higher-strikes/will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
-          "same_domain": true
-        },
-        {
-          "text": "",
-          "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
-          "same_domain": true
-        },
-        {
-          "text": "Gadi Eizenkot 63%",
-          "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election/will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
-          "same_domain": true
-        },
-        {
-          "text": "Benjamin Netanyahu 21%",
-          "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
-          "same_domain": true
-        },
-        {
-          "text": "",
-          "url": "https://polymarket.com/event/presidential-election-winner-2028",
-          "same_domain": true
-        },
-        {
-          "text": "Jon Ossoff 17%",
-          "url": "https://polymarket.com/event/presidential-election-winner-2028/will-jon-ossoff-win-the-2028-us-presidential-election",
-          "same_domain": true
-        },
-        {
-          "text": "JD Vance 13%",
-          "url": "https://polymarket.com/event/presidential-election-winner-2028/will-jd-vance-win-the-2028-us-presidential-election",
-          "same_domain": true
-        },
-        {
-          "text": "",
-          "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30",
-          "same_domain": true
-        },
-        {
-          "text": "December 31, 2027 81%",
-          "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30/tesla-and-spacex-merger-officially-announced-by-december-31-2027",
-          "same_domain": true
-        },
-        {
-          "text": "June 30, 2027 75%",
-          "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30/tesla-and-spacex-merger-officially-announced-by-june-30-2027",
-          "same_domain": true
-        },
-        {
-          "text": "",
-          "url": "https://polymarket.com/event/btc-updown-5m-1794598800",
-          "same_domain": true
-        },
-        {
-          "text": "Up",
-          "url": "https://polymarket.com/event/btc-updown-5m-1794598800?outcomeIndex=0",
-          "same_domain": true
-        },
-        {
-          "text": "Down",
-          "url": "https://polymarket.com/event/btc-updown-5m-1794598800?outcomeIndex=1",
+          "text": "50+ bps increase 8%",
+          "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
           "same_domain": true
         },
         {
@@ -12623,13 +12593,28 @@
           "same_domain": true
         },
         {
-          "text": "Chuck Schumer 86%",
+          "text": "Chuck Schumer 87%",
           "url": "https://polymarket.com/event/next-senate-majority-leader-485/will-chuck-schumer-be-the-next-senate-majority-leader",
           "same_domain": true
         },
         {
-          "text": "Chris Van Hollen 14%",
+          "text": "Chris Van Hollen 12%",
           "url": "https://polymarket.com/event/next-senate-majority-leader-485/will-chris-van-hollen-be-the-next-senate-majority-leader",
+          "same_domain": true
+        },
+        {
+          "text": "",
+          "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30",
+          "same_domain": true
+        },
+        {
+          "text": "December 31, 2027 84%",
+          "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30/tesla-and-spacex-merger-officially-announced-by-december-31-2027",
+          "same_domain": true
+        },
+        {
+          "text": "June 30, 2027 76%",
+          "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30/tesla-and-spacex-merger-officially-announced-by-june-30-2027",
           "same_domain": true
         },
         {
@@ -12643,23 +12628,23 @@
           "same_domain": true
         },
         {
-          "text": "Ian Buck 25%",
+          "text": "Ian Buck 24%",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia/will-ian-buck-be-the-next-ceo-of-nvidia",
           "same_domain": true
         },
         {
-          "text": "Rene Haas 22%",
+          "text": "Rene Haas 21%",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia/will-rene-haas-be-the-next-ceo-of-nvidia",
           "same_domain": true
         },
         {
-          "text": "Colette Kress 8%",
+          "text": "Colette Kress 10%",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia/will-colette-kress-be-the-next-ceo-of-nvidia",
           "same_domain": true
         },
         {
-          "text": "Johny Srouji 8%",
-          "url": "https://polymarket.com/event/next-ceo-of-nvidia/will-johny-srouji-be-the-next-ceo-of-nvidia",
+          "text": "Jensen Huang (No Change) 8%",
+          "url": "https://polymarket.com/event/next-ceo-of-nvidia/will-candidate-a-be-the-next-ceo-of-nvidia",
           "same_domain": true
         },
         {
@@ -12673,12 +12658,12 @@
           "same_domain": true
         },
         {
-          "text": "Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down",
+          "text": "Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO?",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia",
           "same_domain": true
         },
         {
-          "text": "Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO?",
+          "text": "Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia",
           "same_domain": true
         },
@@ -12698,12 +12683,12 @@
           "same_domain": true
         },
         {
-          "text": "Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down",
+          "text": "Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO?",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia",
           "same_domain": true
         },
         {
-          "text": "Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO?",
+          "text": "Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia",
           "same_domain": true
         },
@@ -12723,13 +12708,73 @@
           "same_domain": true
         },
         {
+          "text": "Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO?",
+          "url": "https://polymarket.com/event/next-ceo-of-nvidia",
+          "same_domain": true
+        },
+        {
           "text": "Reuters ・ Instant view: Nvidia CEO Jensen Huang steps down",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia",
           "same_domain": true
         },
         {
-          "text": "Bloomberg.com ・ Watch With Jensen Huang Gone, Who Will Be Nvidia's Next CEO?",
+          "text": "BBC ・ How Jensen Huang's scandal unfolded - and what's next for Nvidia?",
           "url": "https://polymarket.com/event/next-ceo-of-nvidia",
+          "same_domain": true
+        },
+        {
+          "text": "",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500",
+          "same_domain": true
+        },
+        {
+          "text": "Bitcoin Up or Down",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500",
+          "same_domain": true
+        },
+        {
+          "text": "Bitcoin Up or Down",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500",
+          "same_domain": true
+        },
+        {
+          "text": "Up 2.11x",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500?outcomeIndex=0",
+          "same_domain": true
+        },
+        {
+          "text": "Down 1.9x",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500?outcomeIndex=1",
+          "same_domain": true
+        },
+        {
+          "text": "ghachu you can like only one comment a time",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500",
+          "same_domain": true
+        },
+        {
+          "text": "skibidi-dibidi porn is healthier than this shiii",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500",
+          "same_domain": true
+        },
+        {
+          "text": "lotboy This market was made for the bots to milk us humans",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500",
+          "same_domain": true
+        },
+        {
+          "text": "Cardenas I've been studying this market for several hours now... My conclusion is that it can go UP or DOWN. Very intere",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500",
+          "same_domain": true
+        },
+        {
+          "text": "It-aint-much I refreshed like 500 times today :D",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500",
+          "same_domain": true
+        },
+        {
+          "text": "ghachu you can like only one comment a time",
+          "url": "https://polymarket.com/event/btc-updown-5m-1794637500",
           "same_domain": true
         }
       ]
@@ -12739,10 +12784,10 @@
   "9e88c649d1becaa4a49c2fab": {
     "project_name": "Re",
     "url": "https://app.re.xyz",
-    "description": "DeFi protokolü. Kategori: RWA. TVL: $487,532,925. Chain: Multi-Chain. DeFiLlama symbol alanı: RE.",
+    "description": "DeFi protokolü. Kategori: RWA. TVL: $487,554,531. Chain: Multi-Chain. DeFiLlama symbol alanı: RE.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 487532925,
+    "tvl_usd": 487554531,
     "chain": "Multi-Chain",
     "category": "RWA",
     "defillama_symbol": "RE",
@@ -12751,7 +12796,7 @@
       "page_ok": true,
       "resolved_url": "https://app.re.xyz/",
       "page_title": "Re App | Portfolio, Deposits & Protocol Metrics",
-      "page_text": "Re App | Portfolio, Deposits & Protocol Metrics Portfolio reUSD 6.9% APY reUSDe 11.9% APY $RE Claims Points Metrics Capital Strategy More Docs reUSD 6.9% APY Senior tranche protection with stable yield from reinsurance premiums. Instant redemptions, last to absorb losses. Learn more reUSDe 11.9% APY Mezzanine tranche. Earn enhanced returns backed by real-world reinsurance premiums that are uncorrelated to crypto markets. Learn more Loading earning opportunities… Resilience Foundation ©2026 Portfolio reUSD reUSDe $RE Insights Points Metrics Capital Strategy Terms of Service Claims Terms of Service Privacy Policy Disclosure Stay connected Subscribe to our newsletter Subscribe Stay connected Subscribe to our newsletter Subscribe Portfolio reUSD reUSDe $RE Insights Points Metrics Capital Strategy Terms of Service Claims Terms of Service Privacy Policy Disclosure Resilience Foundation ©2026",
+      "page_text": "Re App | Portfolio, Deposits & Protocol Metrics Portfolio reUSD 6.9% APY reUSDe 11.8% APY $RE Claims Points Metrics Capital Strategy More Docs reUSD 6.9% APY Senior tranche protection with stable yield from reinsurance premiums. Instant redemptions, last to absorb losses. Learn more reUSDe 11.8% APY Mezzanine tranche. Earn enhanced returns backed by real-world reinsurance premiums that are uncorrelated to crypto markets. Learn more Loading earning opportunities… Resilience Foundation ©2026 Portfolio reUSD reUSDe $RE Insights Points Metrics Capital Strategy Terms of Service Claims Terms of Service Privacy Policy Disclosure Stay connected Subscribe to our newsletter Subscribe Stay connected Subscribe to our newsletter Subscribe Portfolio reUSD reUSDe $RE Insights Points Metrics Capital Strategy Terms of Service Claims Terms of Service Privacy Policy Disclosure Resilience Foundation ©2026",
       "links": [
         {
           "text": "",
@@ -12769,7 +12814,7 @@
           "same_domain": true
         },
         {
-          "text": "reUSDe 11.9% APY",
+          "text": "reUSDe 11.8% APY",
           "url": "https://app.re.xyz/reusde",
           "same_domain": true
         },
@@ -12809,7 +12854,7 @@
           "same_domain": true
         },
         {
-          "text": "reUSDe 11.9% APY Mezzanine tranche. Earn enhanced returns backed by real-world reinsurance premiums that are uncorrelate",
+          "text": "reUSDe 11.8% APY Mezzanine tranche. Earn enhanced returns backed by real-world reinsurance premiums that are uncorrelate",
           "url": "https://app.re.xyz/reusde",
           "same_domain": true
         },
@@ -13637,10 +13682,10 @@
   "520ddf4e62d8f0fb82f6291a": {
     "project_name": "Bittensor dTAO",
     "url": "https://bittensor.com",
-    "description": "DeFi protokolü. Kategori: Dexs. TVL: $380,899,820. Chain: Bittensor. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Dexs. TVL: $371,722,743. Chain: Bittensor. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 380899820,
+    "tvl_usd": 371722743,
     "chain": "Bittensor",
     "category": "Dexs",
     "defillama_symbol": "-",
@@ -13693,10 +13738,10 @@
   "3c7ddcf1b4c4e9580627af22": {
     "project_name": "JustLend sTRX",
     "url": "https://app.justlend.org/strx?lang=en-US",
-    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $3,088,774,520. Chain: Tron. DeFiLlama symbol alanı: JST.",
+    "description": "DeFi protokolü. Kategori: Liquid Staking. TVL: $3,082,476,625. Chain: Tron. DeFiLlama symbol alanı: JST.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 3088774520,
+    "tvl_usd": 3082476625,
     "chain": "Tron",
     "category": "Liquid Staking",
     "defillama_symbol": "JST",
@@ -13713,10 +13758,10 @@
   "60faf6d375c220190f927ccc": {
     "project_name": "Huma",
     "url": "https://app.huma.finance",
-    "description": "DeFi protokolü. Kategori: RWA. TVL: $344,543,463. Chain: Multi-Chain. DeFiLlama symbol alanı: HUMA.",
+    "description": "DeFi protokolü. Kategori: RWA. TVL: $368,699,726. Chain: Multi-Chain. DeFiLlama symbol alanı: HUMA.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 344543463,
+    "tvl_usd": 368699726,
     "chain": "Multi-Chain",
     "category": "RWA",
     "defillama_symbol": "HUMA",
@@ -13759,10 +13804,10 @@
   "00b1bccd59339d3e72180fd1": {
     "project_name": "Nonce Capital",
     "url": "https://nonce-capital.xyz/",
-    "description": "DeFi protokolü. Kategori: Risk Curators. TVL: $517,706,894. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Risk Curators. TVL: $509,831,585. Chain: Multi-Chain. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 517706894,
+    "tvl_usd": 509831585,
     "chain": "Multi-Chain",
     "category": "Risk Curators",
     "defillama_symbol": "-",
@@ -13771,7 +13816,7 @@
       "page_ok": true,
       "resolved_url": "https://nonce-capital.xyz/",
       "page_title": "Nonce Capital",
-      "page_text": "Nonce Capital Nonce Blog Deposit Deposit EtherFi Earn Sign In Dashboard INSTITUTIONAL DEFI YIELD Institutional-grade DeFi yield. Transparent vaults, systematic execution, disciplined risk. WHY INSTITUTIONS HESITATE ON DEFI Fragmented tooling, opaque execution, unaccountable pipelines. We built a curator practice that fixes that. $489.8M TOTAL VALUE LOCKED Liquid ETH $352.1M TVL Liquid USD $118.5M TVL Liquid BTC $19.2M TVL TVL is point-in-time at last deploy. Sources available on request. HOW CAPITAL FLOWS From deposit to yield output, every step runs through a single, transparent pipeline. DEPOSIT Stablecoins, ETH, BTC LIQUID ETH LIQUID USD LIQUID BTC STRATEGY ROUTER Automated allocation and rebalancing RISK ENGINE Severity-scored position monitoring YIELD OUTPUT Compounding returns OUR SECURITY PARTNERS 01 Disciplined Execution Routing, rebalancing, and risk tooling run through an integrated stack we maintain end to end. Investment decisions are not gated by black-box dependencies. 02 Automated Execution, Not Manual Trades Severity-scored risk parameters trigger automated responses, from alerts to capital redeployment. Every strategy runs through staging-validated automation, not spreadsheets and Telegram groups. 03 Risk Data Is a First-Class System Fault-level and position-level risk schemas, severity-based escalation, automated actions from monitoring to capital deployment. Risk isn't a checkbox. It's the architecture. NONCE CAPITAL This website is for informational purposes only and does not constitute an offer to sell or solicitation to buy any securities or investment products. Past performance is not indicative of future results. Â© 2026 NONCE CAPITAL LLC",
+      "page_text": "Nonce Capital Nonce Blog Deposit Deposit EtherFi Earn Sign In Dashboard INSTITUTIONAL DEFI YIELD Institutional-grade DeFi yield. Transparent vaults, systematic execution, disciplined risk. WHY INSTITUTIONS HESITATE ON DEFI Fragmented tooling, opaque execution, unaccountable pipelines. We built a curator practice that fixes that. $480.6M TOTAL VALUE LOCKED Liquid ETH $344.1M TVL Liquid USD $118.0M TVL Liquid BTC $18.6M TVL TVL is point-in-time at last deploy. Sources available on request. HOW CAPITAL FLOWS From deposit to yield output, every step runs through a single, transparent pipeline. DEPOSIT Stablecoins, ETH, BTC LIQUID ETH LIQUID USD LIQUID BTC STRATEGY ROUTER Automated allocation and rebalancing RISK ENGINE Severity-scored position monitoring YIELD OUTPUT Compounding returns OUR SECURITY PARTNERS 01 Disciplined Execution Routing, rebalancing, and risk tooling run through an integrated stack we maintain end to end. Investment decisions are not gated by black-box dependencies. 02 Automated Execution, Not Manual Trades Severity-scored risk parameters trigger automated responses, from alerts to capital redeployment. Every strategy runs through staging-validated automation, not spreadsheets and Telegram groups. 03 Risk Data Is a First-Class System Fault-level and position-level risk schemas, severity-based escalation, automated actions from monitoring to capital deployment. Risk isn't a checkbox. It's the architecture. NONCE CAPITAL This website is for informational purposes only and does not constitute an offer to sell or solicitation to buy any securities or investment products. Past performance is not indicative of future results. Â© 2026 NONCE CAPITAL LLC",
       "links": [
         {
           "text": "Nonce",
@@ -13830,10 +13875,10 @@
   "158c013abd45e02c7964e613": {
     "project_name": "Tornado Cash",
     "url": "https://tornadocash.eth.limo/",
-    "description": "DeFi protokolü. Kategori: Privacy. TVL: $670,236,328. Chain: Multi-Chain. DeFiLlama symbol alanı: TORN.",
+    "description": "DeFi protokolü. Kategori: Privacy. TVL: $656,001,879. Chain: Multi-Chain. DeFiLlama symbol alanı: TORN.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 670236328,
+    "tvl_usd": 656001879,
     "chain": "Multi-Chain",
     "category": "Privacy",
     "defillama_symbol": "TORN",
@@ -14457,10 +14502,10 @@
   "fd51c63ff87875d75f2486c6": {
     "project_name": "PancakeSwap AMM V3",
     "url": "https://pancakeswap.finance/swap",
-    "description": "DeFi protokolü. Kategori: Dexs. TVL: $668,303,936. Chain: Multi-Chain. DeFiLlama symbol alanı: CAKE.",
+    "description": "DeFi protokolü. Kategori: Dexs. TVL: $661,398,683. Chain: Multi-Chain. DeFiLlama symbol alanı: CAKE.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 668303936,
+    "tvl_usd": 661398683,
     "chain": "Multi-Chain",
     "category": "Dexs",
     "defillama_symbol": "CAKE",
@@ -14708,10 +14753,10 @@
   "01280062e046de93e4f1ba73": {
     "project_name": "Hyperliquid Earn",
     "url": "https://app.hyperliquid.xyz/earn",
-    "description": "DeFi protokolü. Kategori: Lending. TVL: $1,500,278,632. Chain: Hyperliquid L1. DeFiLlama symbol alanı: HYPE.",
+    "description": "DeFi protokolü. Kategori: Lending. TVL: $1,446,875,515. Chain: Hyperliquid L1. DeFiLlama symbol alanı: HYPE.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 1500278632,
+    "tvl_usd": 1446875515,
     "chain": "Hyperliquid L1",
     "category": "Lending",
     "defillama_symbol": "HYPE",
@@ -15009,10 +15054,10 @@
   "f28587f2ca8b770c0536284b": {
     "project_name": "RocketSwap Anubis V2",
     "url": "",
-    "description": "DeFi protokolü. Kategori: Dexs. TVL: $349,686,341. Chain: Anubis. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: Dexs. TVL: $349,858,161. Chain: Anubis. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 349686341,
+    "tvl_usd": 349858161,
     "chain": "Anubis",
     "category": "Dexs",
     "defillama_symbol": "-",
@@ -15028,10 +15073,10 @@
   "3a62e38d0b95090e844d53b9": {
     "project_name": "OnRe",
     "url": "https://app.onre.finance",
-    "description": "DeFi protokolü. Kategori: RWA. TVL: $309,348,130. Chain: Solana. DeFiLlama symbol alanı: -.",
+    "description": "DeFi protokolü. Kategori: RWA. TVL: $308,687,192. Chain: Solana. DeFiLlama symbol alanı: -.",
     "source": "DeFiLlama",
     "source_type": "protocol_discovery",
-    "tvl_usd": 309348130,
+    "tvl_usd": 308687192,
     "chain": "Solana",
     "category": "RWA",
     "defillama_symbol": "-",
